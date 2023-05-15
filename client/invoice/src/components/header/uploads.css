@@ -1,0 +1,30 @@
+.upload-container {
+    margin-top: 20px;
+  }
+  
+  .upload-container h2 {
+    margin-bottom: 10px;
+  }
+  
+  .upload-container input[type="file"] {
+    margin-bottom: 10px;
+  }
+  
+  .upload-container button {
+    padding: 10px 20px;
+    background-color: #172A51;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .upload-container button:hover {
+    background-color: #CB7438;
+  }
+  
+  .upload-container p {
+    margin-top: 10px;
+    font-weight: bold;
+    color: green;
+  }
+  

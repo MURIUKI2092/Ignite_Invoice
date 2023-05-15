@@ -1,0 +1,82 @@
+.reports {
+    margin: 20px;
+  }
+  
+  .reports h2 {
+    margin-bottom: 10px;
+  }
+  
+  .date-filter {
+    margin-bottom: 20px;
+  }
+  
+  .date-filter label,
+  .date-filter input {
+    margin-right: 10px;
+  }
+  
+  .action-buttons {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .action-buttons button {
+    margin-left: 10px;
+    padding: 20px;
+    color: #172A51;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .action-buttons button:hover {
+    color: #CB7438;
+  }
+  
+  .export-dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .export-options {
+    position: absolute;
+    background-color: #f9f9f9;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+    padding: 8px;
+    right: 0;
+    display: none;
+  }
+  
+  .export-dropdown:hover .export-options {
+    display: block;
+  }
+  
+  .clients-table {
+    width: 100%;
+  }
+  
+  .clients-table table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .clients-table th,
+  .clients-table td {
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .clients-table thead th {
+    background-color: #f2f2f2;
+    color: #333;
+  }
+  
+  .clients-table tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .clients-table tbody tr:nth-child(odd) {
+    background-color: #ffffff;
+  }
+  
