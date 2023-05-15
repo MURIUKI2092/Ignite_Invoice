@@ -19,10 +19,44 @@ export default function Header() {
               <div className="right">
                 <ul className="menu">
                   <li>
-                    <BiPlus className="plus" />
+                    <div className="plus-dropdown">
+                      <h3>
+                        <BiPlus className="plus" />
+                      </h3>
+                      <div className="dropdown">
+                        <ul>
+                          <h4>
+                            Add New
+                          </h4>
+                          <li>
+                            <Link to={"/"} style={{ textDecoration: "none", color: "inherit" }}>Client</Link>
+                          </li>
+                          <li>
+                            <Link to={"/"} style={{ textDecoration: "none", color: "inherit" }}>Import Invoices</Link>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
                   </li>
                   <li>
-                    Account <BiChevronDown className="arrow" />
+                    <div className="account-dropdown">
+                      <h3>
+                        Account <BiChevronDown className="arrow" />
+                      </h3>
+                      <div className="dropdown">
+                        <ul>
+                          <h4>
+                            Adnan Ahmed
+                          </h4>
+                          <li>
+                            <Link to={"/"} style={{ textDecoration: "none", color: "inherit" }}>Edit Account</Link>
+                          </li>
+                          <li>
+                            <Link to={"/"} style={{ textDecoration: "none", color: "inherit" }}>Log out</Link>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
                   </li>
                 </ul>
               </div>

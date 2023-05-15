@@ -36,7 +36,6 @@
     margin: 0;
 }
 
-
 .main-header .right ul li {
     padding-top: 0;
     display: inline-block;
@@ -49,8 +48,99 @@
     line-height: 1.5;
     transition: all .4s ease;
 }
+.main-header .right ul li:hover{
+    cursor: pointer;
+}
+.main-header .right ul li h3 {
+    font-size: 22px;
+    font-weight: 400;
+}
 
 .main-header .right ul li .arrow,
 .plus {
     font-size: 22px;
+}
+
+.main-header .plus-dropdown .dropdown {
+    display: none;
+    background-color: #fff;
+    position: absolute;
+    right: 180px;
+    justify-items: center;
+    align-items: center;
+    box-shadow: 0px 2px 4px 0px rgba(66, 66, 66, 0.74);
+}
+
+.main-header .plus-dropdown .dropdown h4 {
+    color: #9c9c9c;
+    font-size: 18px;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+.main-header .plus-dropdown .dropdown ul {
+    margin: 0;
+    margin-bottom: 20px;
+    padding: 0;
+}
+
+.main-header .plus-dropdown .dropdown ul li {
+    display: block;
+    font-size: 18px;
+    padding: 2px;
+    padding-top: 5px;
+    color: #000;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.main-header .plus-dropdown .dropdown ul li:hover {
+    background-color: #d9d9d9;
+}
+
+.main-header .plus-dropdown:hover .dropdown {
+    display: flex;
+}
+
+.main-header .account-dropdown .dropdown {
+    display: none;
+    background-color: #fff;
+    position: absolute;
+    right: 25px;
+    justify-items: center;
+    align-items: center;
+    box-shadow: 0px 2px 4px 0px rgba(66, 66, 66, 0.74);
+}
+
+.main-header .account-dropdown .dropdown h4 {
+    color: #5e5d5d;
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-top: 20px;
+}
+
+.main-header .account-dropdown .dropdown ul {
+    margin: 0;
+    margin-bottom: 10px;
+    padding: 0;
+}
+
+.main-header .account-dropdown .dropdown ul li {
+    display: block;
+    font-size: 18px;
+    padding: 2px;
+    padding-top: 5px;
+    color: #000;
+    padding-left: 20px;
+    padding-right: 30px;
+}
+
+.main-header .account-dropdown .dropdown ul li:hover {
+    background-color: #d9d9d9;
+}
+
+.main-header .account-dropdown:hover .dropdown {
+    display: flex;
 }
