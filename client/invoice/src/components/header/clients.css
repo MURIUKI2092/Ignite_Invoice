@@ -1,0 +1,27 @@
+.clients-table {
+  width: 100%;
+}
+
+.clients-table table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.clients-table th,
+.clients-table td {
+  padding: 8px;
+  text-align: left;
+}
+
+.clients-table thead th {
+  background-color: #f2f2f2;
+  color: #333;
+}
+
+.clients-table tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.clients-table tbody tr:nth-child(odd) {
+  background-color: #ffffff;
+}
