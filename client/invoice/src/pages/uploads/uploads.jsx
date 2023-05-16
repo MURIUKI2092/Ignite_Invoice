@@ -3,6 +3,7 @@ import "./uploads.css"
 import { Helmet } from 'react-helmet'
 import Header from '../../components/header/Header'
 import Sidebar from '../../components/sidebar/Sidebar'
+import Upload from '../../components/uploads_data/Uploads'
 
 export default function Uploads() {
   return (
@@ -14,7 +15,10 @@ export default function Uploads() {
         <link rel="canonical" href="/uploads" />
       </Helmet>
       <Header />
-      <Sidebar />
+      <div className="uploads-page">
+        <Sidebar />
+        <Upload />
+      </div>
     </>
   )
 }

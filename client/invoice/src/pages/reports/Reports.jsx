@@ -3,6 +3,7 @@ import "./reports.css"
 import { Helmet } from 'react-helmet'
 import Header from '../../components/header/Header'
 import Sidebar from '../../components/sidebar/Sidebar'
+import Report from '../../components/reports_data/Reports'
 
 export default function Reports() {
     return (
@@ -14,7 +15,10 @@ export default function Reports() {
                 <link rel="canonical" href="/reports" />
             </Helmet>
             <Header />
-            <Sidebar />
+            <div className="reports-page">
+                <Sidebar />
+                <Report />
+            </div>
         </>
     )
 }

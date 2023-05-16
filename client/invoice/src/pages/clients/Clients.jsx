@@ -3,6 +3,7 @@ import "./clients.css"
 import { Helmet } from 'react-helmet'
 import Header from '../../components/header/Header'
 import Sidebar from '../../components/sidebar/Sidebar'
+import Client from '../../components/clients_data/Clients'
 
 export default function Clients() {
     return (
@@ -14,7 +15,11 @@ export default function Clients() {
                 <link rel="canonical" href="/clients" />
             </Helmet>
             <Header />
-            <Sidebar />
+            <div className="clients-page">
+                <Sidebar />
+                <Client />
+            </div>
+
         </>
     )
 }

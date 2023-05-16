@@ -10,6 +10,7 @@ import Reports from "./pages/reports/Reports";
 import Clients from "./pages/clients/Clients";
 import Invoices from "./pages/invoices/Invoices";
 
+
 function App() {
   return (
     <Router>
@@ -19,27 +20,27 @@ function App() {
           element={
             <Home />
           } />
-          <Route
+        <Route
           path="/history"
           element={
             <History />
           } />
-          <Route
+        <Route
           path="/uploads"
           element={
             <Uploads />
           } />
-          <Route
+        <Route
           path="/reports"
           element={
             <Reports />
           } />
-          <Route
+        <Route
           path="/clients"
           element={
             <Clients />
           } />
-          <Route
+        <Route
           path="/invoices"
           element={
             <Invoices />
