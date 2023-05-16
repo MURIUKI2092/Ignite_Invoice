@@ -2,6 +2,7 @@ import React from 'react'
 import "./home.css"
 import { Helmet } from 'react-helmet'
 import Header from '../../components/header/Header'
+import Sidebar from '../../components/sidebar/Sidebar'
 
 export default function Home() {
     return (
@@ -13,6 +14,7 @@ export default function Home() {
                 <link rel="canonical" href="/" />
             </Helmet>
             <Header />
+            <Sidebar />
         </>
     )
 }

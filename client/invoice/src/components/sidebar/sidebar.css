@@ -1,0 +1,34 @@
+.sidebar {
+    flex: 2;
+}
+
+.sidebar .container {
+    max-width: 2560px;
+    width: 100%;
+    background-color: #fff;
+    padding: 0;
+}
+
+.sidebar .side-menu {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.sidebar .side-menu ul {
+    margin: 0;
+    padding: 0;
+}
+
+.sidebar .side-menu ul li{
+    display: block;
+    padding: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    color: #172a51;
+}
+
+.sidebar .side-menu ul li .icon{
+    margin-right: 15px;
+    font-size: 22px;
+}

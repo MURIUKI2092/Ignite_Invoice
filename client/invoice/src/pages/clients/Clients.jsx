@@ -2,6 +2,7 @@ import React from 'react'
 import "./clients.css"
 import { Helmet } from 'react-helmet'
 import Header from '../../components/header/Header'
+import Sidebar from '../../components/sidebar/Sidebar'
 
 export default function Clients() {
     return (
@@ -13,6 +14,7 @@ export default function Clients() {
                 <link rel="canonical" href="/clients" />
             </Helmet>
             <Header />
+            <Sidebar />
         </>
     )
 }
