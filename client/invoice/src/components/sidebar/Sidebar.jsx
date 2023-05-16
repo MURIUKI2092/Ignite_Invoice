@@ -15,36 +15,42 @@ export default function Sidebar() {
                 <div className="row">
                     <div className="col-xl-12 side-menu">
                         <ul>
-                            <Link to={"/"} style={{ textDecoration: "none", color: "inherit" }}>
-                                <li>
+                            <li>
+                                <Link to={"/"} style={{ textDecoration: "none", color: "inherit" }}>
                                     <MdHomeFilled className='icon' /> Home
-                                </li>
-                            </Link>
-                            <Link to={"/history"} style={{ textDecoration: "none", color: "inherit" }}>
-                                <li>
+                                </Link>
+                            </li>
+
+                            <li>
+                                <Link to={"/history"} style={{ textDecoration: "none", color: "inherit" }}>
                                     <RiHistoryLine className='icon' /> History
-                                </li>
-                            </Link>
-                            <Link to={"/uploads"} style={{ textDecoration: "none", color: "inherit" }}>
-                                <li>
+                                </Link>
+                            </li>
+
+                            <li>
+                                <Link to={"/uploads"} style={{ textDecoration: "none", color: "inherit" }}>
                                     <ImFolderUpload className='icon' /> Uploads
-                                </li>
-                            </Link>
-                            <Link to={"/reports"} style={{ textDecoration: "none", color: "inherit" }}>
-                                <li>
+                                </Link>
+                            </li>
+
+                            <li>
+                                <Link to={"/reports"} style={{ textDecoration: "none", color: "inherit" }}>
                                     <TbReportAnalytics className='icon' /> Reports
-                                </li>
-                            </Link>
-                            <Link to={"/clients"} style={{ textDecoration: "none", color: "inherit" }}>
-                                <li>
+                                </Link>
+                            </li>
+
+                            <li>
+                                <Link to={"/clients"} style={{ textDecoration: "none", color: "inherit" }}>
                                     <BsFillPersonVcardFill className='icon' /> Clients
-                                </li>
-                            </Link>
-                            <Link to={"/invoices"} style={{ textDecoration: "none", color: "inherit" }}>
-                                <li>
+                                </Link>
+                            </li>
+
+                            <li>
+                                <Link to={"/invoices"} style={{ textDecoration: "none", color: "inherit" }}>
                                     <AiFillDatabase className='icon' /> Invoices
-                                </li>
-                            </Link>
+                                </Link>
+                            </li>
+
                         </ul>
                     </div>
                 </div>
