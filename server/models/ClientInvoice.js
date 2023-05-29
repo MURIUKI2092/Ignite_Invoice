@@ -23,59 +23,37 @@ const ClientInvoiceSchema = new mongoose.Schema({
     },
     nominalCode: {
         type: Number,
-        required: true,
-        unique: false
     },
     from: {
         type: Date,
-        required: true,
-        unique: false
     },
     to: {
         type: Date,
-        required: true,
-        unique: false
     },
     createdOn: {
         type: Date,
-        required: true,
-        unique: false
     },
     invoiceNumber: String,
     dueDate: {
         type: Date,
-        required: true,
-        unique: false
     },
     totalAmount: {
         type: Number,
-        required: true,
-        unique: false
     },
     expensesAmount: {
         type: Number,
-        required: true,
-        unique: false
     },
     vatAmount: {
         type: Number,
-        required: true,
-        unique: false
     },
     grandTotal: {
         type: Number,
-        required: true,
-        unique: false
     },
     paidAmount: {
         type: Number,
-        required: true,
-        unique: false
     },
     balanceAmount: {
         type: Number,
-        required: true,
-        unique: false
     },
     status: String,
     generatedBy: String,
@@ -83,4 +61,4 @@ const ClientInvoiceSchema = new mongoose.Schema({
     { timestamps: true }
 );
 
-module.exports = mongoose.model("ClientInvoice",ClientInvoiceSchema)
+module.exports = mongoose.model("ClientInvoice", ClientInvoiceSchema)
