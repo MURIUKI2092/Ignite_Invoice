@@ -4,12 +4,12 @@ const UserSchema = new mongoose.Schema({
     firstname:{
         type:String,
         required:true,
-        unique:true
+        unique:false
     },
     lastname:{
         type:String,
         required:true,
-        unique:true
+        unique:false
     },
     email:{
         type:String,
@@ -24,12 +24,12 @@ const UserSchema = new mongoose.Schema({
     location:{
         type:String,
         required:true,
-        unique:true
+        unique:false
     },
     password:{
         type:String,
         required:true,
-        unique:true
+        unique:false
     },
     
 },
