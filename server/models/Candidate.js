@@ -3,19 +3,13 @@ const mongoose = require("mongoose")
 const CandidateSchema = new mongoose.Schema({
     firstName: {
       type: String,
-      required: true,
-      unique: false
-    },
+      },
     lastName: {
       type: String,
-      required: true,
-      unique: false
-    },
+      },
     email: {
       type: String,
-      required: true,
-      unique: true
-    },
+      },
     mobileNumber: String,
     employmentType: String,
     jobs: String,

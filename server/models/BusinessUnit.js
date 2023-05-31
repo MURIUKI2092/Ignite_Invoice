@@ -5,13 +5,9 @@ const BusinessUnitSchema = new mongoose.Schema({
     businessUnit: String,
     clientName: {
         type: String,
-        required: true,
-        unique: false
     },
     email: {
         type: String,
-        required: true,
-        unique: true
     },
     addressLine: String,
     splitRate: String,
@@ -20,7 +16,7 @@ const BusinessUnitSchema = new mongoose.Schema({
     invoiceAddress: String,
     contact: String,
 },
-{timestamps: true}
+    { timestamps: true }
 );
 
-module.exports = mongoose.model("BusinessUnit",BusinessUnitSchema)
+module.exports = mongoose.model("BusinessUnit", BusinessUnitSchema)

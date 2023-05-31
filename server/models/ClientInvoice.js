@@ -3,24 +3,18 @@ const mongoose = require("mongoose")
 const ClientInvoiceSchema = new mongoose.Schema({
     slNo: {
         type: Number,
-        required: true,
+        required: false,
         unique: true
     },
     client: {
         type: String,
-        required: true,
-        unique: false
-    },
+        },
     businessUnitRefCode: {
         type: String,
-        required: true,
-        unique: true
-    },
+        },
     businessUnit: {
         type: String,
-        required: true,
-        unique: false
-    },
+        },
     nominalCode: {
         type: Number,
     },
