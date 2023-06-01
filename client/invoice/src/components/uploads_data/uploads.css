@@ -21,17 +21,6 @@
   margin-bottom: 10px;
 }
 
-.upload-container input[type="file"] {
-  margin-bottom: 10px;
-}
-
-.upload-container button {
-  padding: 10px 20px;
-  background-color: #172A51;
-  color: #fff;
-  border: none;
-  cursor: pointer;
-}
 
 .upload-container button:hover {
   background-color: #CB7438;
@@ -41,4 +30,41 @@
   margin-top: 10px;
   font-weight: bold;
   color: green;
+}
+
+.uploads .main-area{
+  display: flex;
+  flex-direction: row;
+  margin-top: 35px;
+}
+
+.uploads .main-area .left{
+  background-color: #e5e5e5;
+  padding: 15px;
+}
+
+.uploads .main-area .left h4{
+  background-color: #353535;
+  color: #fff;
+  width: 100px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 5px;
+}
+
+.uploads .main-area .left label, input{
+  text-align: center;
+  margin-left: 35px;
+  padding-left: 15px;
+}
+
+.uploads .main-area .left button{
+  display: block;
+  margin-top: 20px;
+  border: none;
+  background-color: #8f8f8f;
+  color: #fff;
+  padding-left: 10px;
+  padding-right: 10px;
 }
