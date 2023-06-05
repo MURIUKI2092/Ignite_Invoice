@@ -1,0 +1,179 @@
+﻿Type,Employee Code,Employee First Name,Employee Last Name,Position,Client,Business Unit,Shift Date,Approved Date,Payment Ref,Payroll Id,Time From,Time To,Hours,Pay Rate,Total Pay,Total Hours,Charge Rate,Total Charge,Status
+13 shifts,HF95CA13,Irene,Amadu- Alexandra,multiple,multiple,multiple,23-01-2023 to 29-01-2023,,,---,,,62.00,multiple,736.00,62.00,multiple,"1,138.11",
+shift,HF95CA13,Irene,Amadu- Alexandra,Support Worker,Macintyre Care,The Ryland's,23-01-2023,30-01-2023 10:30,Monday Day,---,16:00,20:00,4.00,12.00,48.00,4.00,18.69,74.76,invoiced
+shift,HF95CA13,Irene,Amadu- Alexandra,Support Worker,Macintyre Care,The Ryland's,23-01-2023,30-01-2023 10:30,Monday Day,---,20:00,21:30,1.50,12.50,18.75,1.50,19.51,29.27,invoiced
+shift,HF95CA13,Irene,Amadu- Alexandra,Support Worker,Macintyre Care,The Ryland's,26-01-2023,30-01-2023 10:30,Thursday Day,---,16:00,20:00,4.00,12.00,48.00,4.00,18.69,74.76,invoiced
+shift,HF95CA13,Irene,Amadu- Alexandra,Support Worker,Macintyre Care,The Ryland's,26-01-2023,30-01-2023 10:30,Thursday Day,---,20:00,21:30,1.50,12.50,18.75,1.50,19.51,29.27,invoiced
+shift,HF95CA13,Irene,Amadu- Alexandra,Support Worker,Macintyre Care,North Close,27-01-2023,31-01-2023 12:03,Friday Day,---,10:00,20:00,10.00,12.00,120.00,10.00,18.69,186.90,invoiced
+shift,HF95CA13,Irene,Amadu- Alexandra,Support Worker,Macintyre Care,North Close,27-01-2023,31-01-2023 12:03,Friday Day,---,20:00,23:30,3.50,12.50,43.75,3.50,19.51,68.29,invoiced
+shift,HF95CA13,Irene,Amadu- Alexandra,Support Worker (Sleep In),Macintyre Care,North Close,27-01-2023,31-01-2023 12:03,Friday Night,---,23:30,07:00,7.50,9.50,71.25,7.50,14.18,106.35,invoiced
+shift,HF95CA13,Irene,Amadu- Alexandra,Support Worker,Macintyre Care,North Close,28-01-2023,31-01-2023 12:03,Saturday Day,---,07:00,08:00,1.00,12.50,12.50,1.00,19.51,19.51,invoiced
+shift,HF95CA13,Irene,Amadu- Alexandra,Support Worker,Macintyre Care,North Close,28-01-2023,31-01-2023 12:03,Saturday Day,---,08:00,10:00,2.00,13.00,26.00,2.00,20.33,40.66,invoiced
+shift,HF95CA13,Irene,Amadu- Alexandra,Support Worker,Swanton Care,Darwin Place,28-01-2023,30-01-2023 10:30,Saturday Night,---,22:00,08:00,10.00,13.50,135.00,10.00,21.13,211.30,invoiced
+shift,HF95CA13,Irene,Amadu- Alexandra,Support Worker (Sleep In),Livability,York House,29-01-2023,30-01-2023 10:30,Sunday Night,---,22:00,08:00,10.00,9.50,95.00,10.00,14.18,141.80,invoiced
+shift,HF95CA13,Irene,Amadu- Alexandra,Support Worker,Livability,York House,29-01-2023,30-01-2023 10:30,Sunday Day,---,15:00,20:00,5.00,14.00,70.00,5.00,21.94,109.70,invoiced
+shift,HF95CA13,Irene,Amadu- Alexandra,Support Worker,Livability,York House,29-01-2023,30-01-2023 10:30,Sunday Day,---,20:00,22:00,2.00,14.50,29.00,2.00,22.77,45.54,invoiced
+5 shifts,HF95CA72,Nasra,Hamid,multiple,multiple,multiple,23-01-2023 to 29-01-2023,,,---,,,35.50,multiple,431.00,35.50,multiple,667.20,
+shift,HF95CA72,Nasra,Hamid,Support Worker,Bethphage,93 Sutton Road (Bethphage),27-01-2023,31-01-2023 12:03,Friday Day,---,10:30,20:00,9.50,12.00,114.00,9.50,18.69,177.56,invoiced
+shift,HF95CA72,Nasra,Hamid,Support Worker,Bethphage,93 Sutton Road (Bethphage),27-01-2023,31-01-2023 12:03,Friday Day,---,20:00,22:00,2.00,12.50,25.00,2.00,19.51,39.02,invoiced
+shift,HF95CA72,Nasra,Hamid,Support Worker,Livability,Flat 1 - Parville House,29-01-2023,30-01-2023 10:30,Sunday Day,---,08:00,20:00,12.00,14.00,168.00,12.00,21.94,263.28,invoiced
+shift,HF95CA72,Nasra,Hamid,Support Worker,Livability,Flat 1 - Parville House,29-01-2023,30-01-2023 10:30,Sunday Day,---,20:00,22:00,2.00,14.50,29.00,2.00,22.77,45.54,invoiced
+shift,HF95CA72,Nasra,Hamid,Support Worker (Sleep In),Livability,Flat 1 - Parville House,29-01-2023,30-01-2023 10:30,Sunday Night,---,22:00,08:00,10.00,9.50,95.00,10.00,14.18,141.80,invoiced
+3 shifts,HF95CA119,Ramadhani,Malinde,Support Worker,Bond Care,The New Barn,23-01-2023 to 29-01-2023,,,---,,,14.50,multiple,204.01,14.50,multiple,319.79,
+shift,HF95CA119,Ramadhani,Malinde,Support Worker,Bond Care,The New Barn,29-01-2023,30-01-2023 10:30,Sunday Day,---,07:45,08:00,0.25,13.50,3.38,0.25,21.13,5.28,invoiced
+shift,HF95CA119,Ramadhani,Malinde,Support Worker,Bond Care,The New Barn,29-01-2023,30-01-2023 10:30,Sunday Day,---,08:00,20:00,12.00,14.00,168.00,12.00,21.94,263.28,invoiced
+shift,HF95CA119,Ramadhani,Malinde,Support Worker,Bond Care,The New Barn,29-01-2023,30-01-2023 10:30,Sunday Day,---,20:00,22:15,2.25,14.50,32.63,2.25,22.77,51.23,invoiced
+7 shifts,HF1CA163,Risikatu,Adebala,Support Worker,multiple,multiple,23-01-2023 to 29-01-2023,,,---,,,52.00,multiple,658.00,52.00,multiple,"1,027.40",
+shift,HF1CA163,Risikatu,Adebala,Support Worker,Swanton Care,12 Magnolia Drive,24-01-2023,30-01-2023 10:30,Tuesday Day,---,08:00,20:00,12.00,12.00,144.00,12.00,18.69,224.28,invoiced
+shift,HF1CA163,Risikatu,Adebala,Support Worker,Swanton Care,12 Magnolia Drive,24-01-2023,30-01-2023 10:30,Tuesday Day,---,20:00,22:00,2.00,12.50,25.00,2.00,19.51,39.02,invoiced
+shift,HF1CA163,Risikatu,Adebala,Support Worker,Bethphage,Robin House (Bethphage),25-01-2023,31-01-2023 12:03,Wednesday Night,---,22:00,07:00,9.00,12.50,112.50,9.00,19.51,175.59,invoiced
+shift,HF1CA163,Risikatu,Adebala,Support Worker,Bethphage,Robin House (Bethphage),27-01-2023,31-01-2023 12:03,Friday Day,---,07:00,08:00,1.00,12.50,12.50,1.00,19.51,19.51,invoiced
+shift,HF1CA163,Risikatu,Adebala,Support Worker,Bethphage,Robin House (Bethphage),27-01-2023,31-01-2023 12:03,Friday Day,---,08:00,16:00,8.00,12.00,96.00,8.00,18.69,149.52,invoiced
+shift,HF1CA163,Risikatu,Adebala,Support Worker,Swanton Care,12 Magnolia Drive,28-01-2023,30-01-2023 10:30,Saturday Day,---,08:00,20:00,12.00,13.00,156.00,12.00,20.33,243.96,invoiced
+shift,HF1CA163,Risikatu,Adebala,Support Worker,Swanton Care,12 Magnolia Drive,29-01-2023,30-01-2023 10:30,Sunday Day,---,12:00,20:00,8.00,14.00,112.00,8.00,21.94,175.52,invoiced
+4 shifts,HF1CA172,Osemeigah,Igbafe,Support Worker,Bethphage,multiple,23-01-2023 to 29-01-2023,,,---,,,37.00,multiple,472.50,37.00,multiple,738.07,
+shift,HF1CA172,Osemeigah,Igbafe,Support Worker,Bethphage,Robin House (Bethphage),23-01-2023,31-01-2023 12:03,Monday Night,---,22:00,07:00,9.00,12.50,112.50,9.00,19.51,175.59,invoiced
+shift,HF1CA172,Osemeigah,Igbafe,Support Worker,Bethphage,Robin House (Bethphage),24-01-2023,31-01-2023 12:03,Tuesday Night,---,22:00,07:00,9.00,12.50,112.50,9.00,19.51,175.59,invoiced
+shift,HF1CA172,Osemeigah,Igbafe,Support Worker,Bethphage,Robin House (Bethphage),26-01-2023,31-01-2023 12:03,Thursday Night,---,22:00,07:00,9.00,12.50,112.50,9.00,19.51,175.59,invoiced
+shift,HF1CA172,Osemeigah,Igbafe,Support Worker,Bethphage,93 Sutton Road (Bethphage),28-01-2023,31-01-2023 12:03,Saturday Night,---,22:00,08:00,10.00,13.50,135.00,10.00,21.13,211.30,invoiced
+11 shifts,HF1CA173,Omotunde,Adebola,Support Worker,Macintyre Care,The Ryland's,23-01-2023 to 29-01-2023,,,---,,,44.17,multiple,552.13,44.17,multiple,861.57,
+shift,HF1CA173,Omotunde,Adebola,Support Worker,Macintyre Care,The Ryland's,23-01-2023,30-01-2023 10:30,Monday Day,---,07:00,08:00,1.00,14.50,14.50,1.00,22.77,22.77,invoiced
+shift,HF1CA173,Omotunde,Adebola,Support Worker,Macintyre Care,The Ryland's,23-01-2023,30-01-2023 10:30,Monday Day,---,08:00,09:00,1.00,12.00,12.00,1.00,18.69,18.69,invoiced
+shift,HF1CA173,Omotunde,Adebola,Support Worker,Macintyre Care,The Ryland's,24-01-2023,30-01-2023 10:30,Tuesday Day,---,09:00,20:00,11.00,12.00,132.00,11.00,18.69,205.59,invoiced
+shift,HF1CA173,Omotunde,Adebola,Support Worker,Macintyre Care,The Ryland's,24-01-2023,30-01-2023 10:30,Tuesday Day,---,20:00,21:30,1.50,12.50,18.75,1.50,19.51,29.27,invoiced
+shift,HF1CA173,Omotunde,Adebola,Support Worker,Macintyre Care,The Ryland's,26-01-2023,30-01-2023 10:30,Thursday Day,---,16:00,20:00,4.00,12.00,48.00,4.00,18.69,74.76,invoiced
+shift,HF1CA173,Omotunde,Adebola,Support Worker,Macintyre Care,The Ryland's,26-01-2023,30-01-2023 10:30,Thursday Day,---,20:00,21:30,1.50,12.50,18.75,1.50,19.51,29.27,invoiced
+shift,HF1CA173,Omotunde,Adebola,Support Worker,Macintyre Care,The Ryland's,27-01-2023,30-01-2023 10:30,Friday Day,---,09:00,20:00,11.00,12.00,132.00,11.00,18.69,205.59,invoiced
+shift,HF1CA173,Omotunde,Adebola,Support Worker,Macintyre Care,The Ryland's,27-01-2023,30-01-2023 10:30,Friday Day,---,20:00,21:40,1.67,12.50,20.88,1.67,19.51,32.58,invoiced
+shift,HF1CA173,Omotunde,Adebola,Support Worker,Macintyre Care,The Ryland's,28-01-2023,30-01-2023 10:30,Saturday Day,---,15:00,20:00,5.00,13.00,65.00,5.00,20.33,101.65,invoiced
+shift,HF1CA173,Omotunde,Adebola,Support Worker,Macintyre Care,The Ryland's,28-01-2023,30-01-2023 10:30,Saturday Day,---,20:00,21:30,1.50,13.50,20.25,1.50,21.13,31.70,invoiced
+shift,HF1CA173,Omotunde,Adebola,Support Worker,Macintyre Care,The Ryland's,29-01-2023,30-01-2023 10:30,Sunday Day,---,10:00,15:00,5.00,14.00,70.00,5.00,21.94,109.70,invoiced
+4 shifts,HF1CA187,Erhuvwu,Onoetiyi,Support Worker,Livability,York House,23-01-2023 to 29-01-2023,,,---,,,41.00,multiple,542.50,41.00,multiple,848.71,
+shift,HF1CA187,Erhuvwu,Onoetiyi,Support Worker,Livability,York House,25-01-2023,30-01-2023 10:30,Wednesday Night,---,22:00,08:00,10.00,12.50,125.00,10.00,19.51,195.10,invoiced
+shift,HF1CA187,Erhuvwu,Onoetiyi,Support Worker,Livability,York House,27-01-2023,30-01-2023 10:30,Friday Night,---,21:00,08:00,11.00,12.50,137.50,11.00,19.51,214.61,invoiced
+shift,HF1CA187,Erhuvwu,Onoetiyi,Support Worker,Livability,York House,28-01-2023,30-01-2023 10:30,Saturday Night,---,22:00,08:00,10.00,13.50,135.00,10.00,21.13,211.30,invoiced
+shift,HF1CA187,Erhuvwu,Onoetiyi,Support Worker,Livability,York House,29-01-2023,31-01-2023 12:03,Sunday Night,---,22:00,08:00,10.00,14.50,145.00,10.00,22.77,227.70,invoiced
+4 shifts,HF1CA216,Ronnie,Nsubuga,Support Worker,Bethphage,multiple,23-01-2023 to 29-01-2023,,,---,,,40.00,multiple,520.00,40.00,multiple,813.00,
+shift,HF1CA216,Ronnie,Nsubuga,Support Worker,Bethphage,93 Little Harlescott Ln (Bethphage),23-01-2023,30-01-2023 10:30,Monday Night,---,22:00,08:00,10.00,12.50,125.00,10.00,19.51,195.10,invoiced
+shift,HF1CA216,Ronnie,Nsubuga,Support Worker,Bethphage,93 Sutton Road (Bethphage),24-01-2023,30-01-2023 10:30,Tuesday Night,---,22:00,08:00,10.00,12.50,125.00,10.00,19.51,195.10,invoiced
+shift,HF1CA216,Ronnie,Nsubuga,Support Worker,Bethphage,93 Little Harlescott Ln (Bethphage),25-01-2023,30-01-2023 10:30,Wednesday Night,---,22:00,08:00,10.00,12.50,125.00,10.00,19.51,195.10,invoiced
+shift,HF1CA216,Ronnie,Nsubuga,Support Worker,Bethphage,93 Sutton Road (Bethphage),29-01-2023,30-01-2023 10:30,Sunday Night,---,22:00,08:00,10.00,14.50,145.00,10.00,22.77,227.70,invoiced
+4 shifts,HF1CA225,Jane,Karuwo,Support Worker,Accomplish Group,Malvern View,23-01-2023 to 29-01-2023,,,---,,,14.00,multiple,190.00,14.00,multiple,297.52,
+shift,HF1CA225,Jane,Karuwo,Support Worker,Accomplish Group,Malvern View,28-01-2023,30-01-2023 10:30,Saturday Day,---,14:00,20:00,6.00,13.00,78.00,6.00,20.33,121.98,invoiced
+shift,HF1CA225,Jane,Karuwo,Support Worker,Accomplish Group,Malvern View,28-01-2023,30-01-2023 10:30,Saturday Day,---,20:00,21:00,1.00,13.50,13.50,1.00,21.13,21.13,invoiced
+shift,HF1CA225,Jane,Karuwo,Support Worker,Accomplish Group,Malvern View,29-01-2023,30-01-2023 10:30,Sunday Day,---,14:00,20:00,6.00,14.00,84.00,6.00,21.94,131.64,invoiced
+shift,HF1CA225,Jane,Karuwo,Support Worker,Accomplish Group,Malvern View,29-01-2023,30-01-2023 10:30,Sunday Day,---,20:00,21:00,1.00,14.50,14.50,1.00,22.77,22.77,invoiced
+8 shifts,HF1CA228,Victor,Imafidon,Support Worker,Swanton Care,multiple,23-01-2023 to 29-01-2023,,,---,,,59.00,multiple,770.50,59.00,multiple,"1,204.59",
+shift,HF1CA228,Victor,Imafidon,Support Worker,Swanton Care,Darwin Place,23-01-2023,30-01-2023 10:30,Monday Night,---,22:00,08:00,10.00,12.50,125.00,10.00,19.51,195.10,invoiced
+shift,HF1CA228,Victor,Imafidon,Support Worker,Swanton Care,Darwin Place,26-01-2023,30-01-2023 10:30,Thursday Night,---,22:00,08:00,10.00,12.50,125.00,10.00,19.51,195.10,invoiced
+shift,HF1CA228,Victor,Imafidon,Support Worker,Swanton Care,Darwin Place,26-01-2023,30-01-2023 10:30,Thursday Night,---,08:00,10:00,2.00,12.00,24.00,2.00,18.69,37.38,invoiced
+shift,HF1CA228,Victor,Imafidon,Support Worker,Swanton Care,Darwin Place,27-01-2023,30-01-2023 10:30,Friday Night,---,22:00,08:00,10.00,12.50,125.00,10.00,19.51,195.10,invoiced
+shift,HF1CA228,Victor,Imafidon,Support Worker,Swanton Care,Darwin Place,27-01-2023,30-01-2023 10:30,Friday Night,---,08:00,10:00,2.00,13.00,26.00,2.00,20.33,40.66,invoiced
+shift,HF1CA228,Victor,Imafidon,Support Worker,Swanton Care,Darwin Place,28-01-2023,30-01-2023 10:30,Saturday Night,---,21:00,08:00,11.00,13.50,148.50,11.00,21.13,232.43,invoiced
+shift,HF1CA228,Victor,Imafidon,Support Worker,Swanton Care,12 Magnolia Drive,29-01-2023,30-01-2023 10:30,Sunday Day,---,08:00,20:00,12.00,14.00,168.00,12.00,21.94,263.28,invoiced
+shift,HF1CA228,Victor,Imafidon,Support Worker,Swanton Care,12 Magnolia Drive,29-01-2023,30-01-2023 10:30,Sunday Day,---,20:00,22:00,2.00,14.50,29.00,2.00,22.77,45.54,invoiced
+1 shift,HF1CA237,Emmanuel,Ameh,Support Worker,Swanton Care,Darwin Place,23-01-2023 to 29-01-2023,,,---,,,12.00,13.00,156.00,12.00,20.33,243.96,
+shift,HF1CA237,Emmanuel,Ameh,Support Worker,Swanton Care,Darwin Place,28-01-2023,30-01-2023 10:30,Saturday Day,---,08:00,20:00,12.00,13.00,156.00,12.00,20.33,243.96,invoiced
+1 shift,HF1CA264,Loveth,Wuam,Support Worker,Livability,York House,23-01-2023 to 29-01-2023,,,---,,,4.50,12.00,54.00,4.50,18.69,84.11,
+shift,HF1CA264,Loveth,Wuam,Support Worker,Livability,York House,24-01-2023,30-01-2023 10:30,Tuesday Day,---,10:30,15:00,4.50,12.00,54.00,4.50,18.69,84.11,invoiced
+11 shifts,HF1CA303,Jason,Holloway,Support Worker,Trident Group,Maer Lane,23-01-2023 to 29-01-2023,,,---,,,49.00,multiple,598.75,49.00,multiple,933.47,
+shift,HF1CA303,Jason,Holloway,Support Worker,Trident Group,Maer Lane,23-01-2023,30-01-2023 10:30,Monday Day,---,07:30,08:00,0.50,14.50,7.25,0.50,22.77,11.39,invoiced
+shift,HF1CA303,Jason,Holloway,Support Worker,Trident Group,Maer Lane,23-01-2023,30-01-2023 10:30,Monday Day,---,08:00,20:00,12.00,12.00,144.00,12.00,18.69,224.28,invoiced
+shift,HF1CA303,Jason,Holloway,Support Worker,Trident Group,Maer Lane,23-01-2023,30-01-2023 10:30,Monday Day,---,20:00,21:30,1.50,12.50,18.75,1.50,19.51,29.27,invoiced
+shift,HF1CA303,Jason,Holloway,Support Worker,Trident Group,Maer Lane,25-01-2023,30-01-2023 10:30,Wednesday Day,---,07:30,08:00,0.50,12.50,6.25,0.50,19.51,9.76,invoiced
+shift,HF1CA303,Jason,Holloway,Support Worker,Trident Group,Maer Lane,25-01-2023,30-01-2023 10:30,Wednesday Day,---,08:00,20:00,12.00,12.00,144.00,12.00,18.69,224.28,invoiced
+shift,HF1CA303,Jason,Holloway,Support Worker,Trident Group,Maer Lane,25-01-2023,30-01-2023 10:30,Wednesday Day,---,20:00,21:30,1.50,12.50,18.75,1.50,19.51,29.27,invoiced
+shift,HF1CA303,Jason,Holloway,Support Worker,Trident Group,Maer Lane,27-01-2023,30-01-2023 10:30,Friday Day,---,07:30,08:00,0.50,12.50,6.25,0.50,19.51,9.76,invoiced
+shift,HF1CA303,Jason,Holloway,Support Worker,Trident Group,Maer Lane,27-01-2023,30-01-2023 10:30,Friday Day,---,08:00,20:00,12.00,12.00,144.00,12.00,18.69,224.28,invoiced
+shift,HF1CA303,Jason,Holloway,Support Worker,Trident Group,Maer Lane,27-01-2023,30-01-2023 10:30,Friday Day,---,20:00,21:30,1.50,12.50,18.75,1.50,19.51,29.27,invoiced
+shift,HF1CA303,Jason,Holloway,Support Worker,Trident Group,Maer Lane,28-01-2023,30-01-2023 10:30,Saturday Day,---,07:30,08:00,0.50,12.50,6.25,0.50,19.51,9.76,invoiced
+shift,HF1CA303,Jason,Holloway,Support Worker,Trident Group,Maer Lane,28-01-2023,30-01-2023 10:30,Saturday Day,---,08:00,14:30,6.50,13.00,84.50,6.50,20.33,132.15,invoiced
+4 shifts,HF1CA345,Fortune,Njekwe,Support Worker,Swanton Care,multiple,23-01-2023 to 29-01-2023,,,---,,,28.00,multiple,380.00,28.00,multiple,595.04,
+shift,HF1CA345,Fortune,Njekwe,Support Worker,Swanton Care,12 Magnolia Drive,28-01-2023,30-01-2023 10:30,Saturday Day,---,08:00,20:00,12.00,13.00,156.00,12.00,20.33,243.96,invoiced
+shift,HF1CA345,Fortune,Njekwe,Support Worker,Swanton Care,12 Magnolia Drive,28-01-2023,30-01-2023 10:30,Saturday Day,---,20:00,22:00,2.00,13.50,27.00,2.00,21.13,42.26,invoiced
+shift,HF1CA345,Fortune,Njekwe,Support Worker,Swanton Care,Darwin Place,29-01-2023,30-01-2023 10:30,Sunday Day,---,08:00,20:00,12.00,14.00,168.00,12.00,21.94,263.28,invoiced
+shift,HF1CA345,Fortune,Njekwe,Support Worker,Swanton Care,Darwin Place,29-01-2023,30-01-2023 10:30,Sunday Day,---,20:00,22:00,2.00,14.50,29.00,2.00,22.77,45.54,invoiced
+10 shifts,HF1CA382,Osagie,Igodan,Support Worker,multiple,multiple,23-01-2023 to 29-01-2023,,,---,,,62.50,multiple,804.25,62.50,multiple,"1,256.88",
+shift,HF1CA382,Osagie,Igodan,Support Worker,Swanton Care,Darwin Place,23-01-2023,30-01-2023 10:30,Monday Night,---,22:00,08:00,10.00,12.50,125.00,10.00,19.51,195.10,invoiced
+shift,HF1CA382,Osagie,Igodan,Support Worker,Swanton Care,Darwin Place,25-01-2023,30-01-2023 10:30,Wednesday Night,---,22:00,08:00,10.00,12.50,125.00,10.00,19.51,195.10,invoiced
+shift,HF1CA382,Osagie,Igodan,Support Worker,Swanton Care,Darwin Place,25-01-2023,30-01-2023 10:30,Wednesday Night,---,08:00,10:00,2.00,12.00,24.00,2.00,18.69,37.38,invoiced
+shift,HF1CA382,Osagie,Igodan,Support Worker,Swanton Care,Darwin Place,26-01-2023,30-01-2023 10:30,Thursday Night,---,22:30,08:00,9.50,12.50,118.75,9.50,19.51,185.35,invoiced
+shift,HF1CA382,Osagie,Igodan,Support Worker,Swanton Care,Darwin Place,26-01-2023,30-01-2023 10:30,Thursday Night,---,08:00,10:00,2.00,12.00,24.00,2.00,18.69,37.38,invoiced
+shift,HF1CA382,Osagie,Igodan,Support Worker,Swanton Care,Darwin Place,27-01-2023,30-01-2023 10:30,Friday Night,---,22:00,08:00,10.00,12.50,125.00,10.00,19.51,195.10,invoiced
+shift,HF1CA382,Osagie,Igodan,Support Worker,Swanton Care,Darwin Place,27-01-2023,30-01-2023 10:30,Friday Night,---,08:00,10:00,2.00,13.00,26.00,2.00,20.33,40.66,invoiced
+shift,HF1CA382,Osagie,Igodan,Support Worker,Accomplish Group,Malvern View,28-01-2023,30-01-2023 10:30,Saturday Day,---,14:00,20:00,6.00,13.00,78.00,6.00,20.33,121.98,invoiced
+shift,HF1CA382,Osagie,Igodan,Support Worker,Accomplish Group,Malvern View,28-01-2023,30-01-2023 10:30,Saturday Day,---,20:00,21:00,1.00,13.50,13.50,1.00,21.13,21.13,invoiced
+shift,HF1CA382,Osagie,Igodan,Support Worker,Swanton Care,Darwin Place,29-01-2023,30-01-2023 10:30,Sunday Night,---,22:00,08:00,10.00,14.50,145.00,10.00,22.77,227.70,invoiced
+2 shifts,HF1CA391,Oluwatobi,Oduyemi,Support Worker,Macintyre Care,94 Murrell Way,23-01-2023 to 29-01-2023,,,---,,,8.00,multiple,113.00,8.00,multiple,177.18,
+shift,HF1CA391,Oluwatobi,Oduyemi,Support Worker,Macintyre Care,94 Murrell Way,29-01-2023,31-01-2023 12:03,Sunday Day,---,14:00,20:00,6.00,14.00,84.00,6.00,21.94,131.64,invoiced
+shift,HF1CA391,Oluwatobi,Oduyemi,Support Worker,Macintyre Care,94 Murrell Way,29-01-2023,31-01-2023 12:03,Sunday Day,---,20:00,22:00,2.00,14.50,29.00,2.00,22.77,45.54,invoiced
+4 shifts,HF1CA402,Oluwatoyin,Eleja,Support Worker,Bethphage,Robin House (Bethphage),23-01-2023 to 29-01-2023,,,---,,,22.00,multiple,280.00,22.00,multiple,437.38,
+shift,HF1CA402,Oluwatoyin,Eleja,Support Worker,Bethphage,Robin House (Bethphage),24-01-2023,30-01-2023 10:30,Tuesday Day,---,14:00,20:00,6.00,12.00,72.00,6.00,18.69,112.14,invoiced
+shift,HF1CA402,Oluwatoyin,Eleja,Support Worker,Bethphage,Robin House (Bethphage),24-01-2023,30-01-2023 10:30,Tuesday Day,---,20:00,22:00,2.00,12.50,25.00,2.00,19.51,39.02,invoiced
+shift,HF1CA402,Oluwatoyin,Eleja,Support Worker,Bethphage,Robin House (Bethphage),28-01-2023,30-01-2023 10:30,Saturday Day,---,08:00,20:00,12.00,13.00,156.00,12.00,20.33,243.96,invoiced
+shift,HF1CA402,Oluwatoyin,Eleja,Support Worker,Bethphage,Robin House (Bethphage),28-01-2023,30-01-2023 10:30,Saturday Day,---,20:00,22:00,2.00,13.50,27.00,2.00,21.13,42.26,invoiced
+3 shifts,HF1CA410,Maureen,Anulika Ifi,Support Worker,Priory Group,Leonard's Croft,23-01-2023 to 29-01-2023,,,---,,,30.00,multiple,358.90,30.00,multiple,512.60,
+shift,HF1CA410,Maureen,Anulika Ifi,Support Worker,Priory Group,Leonard's Croft,27-01-2023,30-01-2023 10:30,Friday Night,---,22:00,08:00,10.00,11.32,113.20,10.00,16.17,161.70,invoiced
+shift,HF1CA410,Maureen,Anulika Ifi,Support Worker,Priory Group,Leonard's Croft,28-01-2023,30-01-2023 10:30,Saturday Night,---,22:00,08:00,10.00,12.01,120.10,10.00,17.15,171.50,invoiced
+shift,HF1CA410,Maureen,Anulika Ifi,Support Worker,Priory Group,Leonard's Croft,29-01-2023,30-01-2023 10:30,Sunday Night,---,22:00,08:00,10.00,12.56,125.60,10.00,17.94,179.40,invoiced
+2 shifts,HF1CA432,Tolulope,Olawuwo,Support Worker,Swanton Care,12 Magnolia Drive,23-01-2023 to 29-01-2023,,,---,,,13.00,12.00,156.00,13.00,18.69,242.97,
+shift,HF1CA432,Tolulope,Olawuwo,Support Worker,Swanton Care,12 Magnolia Drive,25-01-2023,30-01-2023 10:30,Wednesday Day,---,08:00,16:00,8.00,12.00,96.00,8.00,18.69,149.52,invoiced
+shift,HF1CA432,Tolulope,Olawuwo,Support Worker,Swanton Care,12 Magnolia Drive,26-01-2023,30-01-2023 10:30,Thursday Day,---,11:00,16:00,5.00,12.00,60.00,5.00,18.69,93.45,invoiced
+12 shifts,HF1CA433,John Kofi,Acheampong,Support Worker,multiple,multiple,23-01-2023 to 29-01-2023,,,---,,,65.00,multiple,820.00,65.00,multiple,"1,280.17",
+shift,HF1CA433,John Kofi,Acheampong,Support Worker,Swanton Care,Darwin Place,24-01-2023,30-01-2023 10:30,Tuesday Day,---,20:00,08:00,12.00,12.50,150.00,12.00,19.51,234.12,invoiced
+shift,HF1CA433,John Kofi,Acheampong,Support Worker,Swanton Care,Darwin Place,24-01-2023,30-01-2023 10:30,Tuesday Day,---,08:00,10:00,2.00,12.00,24.00,2.00,18.69,37.38,invoiced
+shift,HF1CA433,John Kofi,Acheampong,Support Worker,Bethphage,Robin House (Bethphage),26-01-2023,30-01-2023 10:30,Thursday Day,---,07:00,08:00,1.00,12.50,12.50,1.00,19.51,19.51,invoiced
+shift,HF1CA433,John Kofi,Acheampong,Support Worker,Bethphage,Robin House (Bethphage),26-01-2023,30-01-2023 10:30,Thursday Day,---,08:00,20:00,12.00,12.00,144.00,12.00,18.69,224.28,invoiced
+shift,HF1CA433,John Kofi,Acheampong,Support Worker,Bethphage,Robin House (Bethphage),26-01-2023,30-01-2023 10:30,Thursday Day,---,20:00,22:00,2.00,12.50,25.00,2.00,19.51,39.02,invoiced
+shift,HF1CA433,John Kofi,Acheampong,Support Worker,Macintyre Care,The Ryland's,27-01-2023,30-01-2023 10:30,Friday Day,---,09:00,16:00,7.00,12.00,84.00,7.00,18.69,130.83,invoiced
+shift,HF1CA433,John Kofi,Acheampong,Support Worker,Bethphage,Robin House (Bethphage),27-01-2023,30-01-2023 10:30,Friday Day,---,16:00,20:00,4.00,12.00,48.00,4.00,18.69,74.76,invoiced
+shift,HF1CA433,John Kofi,Acheampong,Support Worker,Bethphage,Robin House (Bethphage),27-01-2023,30-01-2023 10:30,Friday Day,---,20:00,22:00,2.00,12.50,25.00,2.00,19.51,39.02,invoiced
+shift,HF1CA433,John Kofi,Acheampong,Support Worker,Bethphage,Robin House (Bethphage),28-01-2023,30-01-2023 10:30,Saturday Day,---,07:00,08:00,1.00,12.50,12.50,1.00,19.51,19.51,invoiced
+shift,HF1CA433,John Kofi,Acheampong,Support Worker,Bethphage,Robin House (Bethphage),28-01-2023,30-01-2023 10:30,Saturday Day,---,08:00,20:00,12.00,13.00,156.00,12.00,20.33,243.96,invoiced
+shift,HF1CA433,John Kofi,Acheampong,Support Worker,Bethphage,Robin House (Bethphage),28-01-2023,30-01-2023 10:30,Saturday Day,---,20:00,22:00,2.00,13.50,27.00,2.00,21.13,42.26,invoiced
+shift,HF1CA433,John Kofi,Acheampong,Support Worker,Swanton Care,50 Deepdale,29-01-2023,31-01-2023 09:26,Sunday Day,---,08:00,16:00,8.00,14.00,112.00,8.00,21.94,175.52,invoiced
+2 shifts,HF1CA453,Doris,Akue,Support Worker,Priory Group,255 Lichfield Road,23-01-2023 to 29-01-2023,,,---,,,24.75,multiple,287.40,22.00,multiple,359.59,
+shift,HF1CA453,Doris,Akue,Support Worker,Priory Group,255 Lichfield Road,24-01-2023,30-01-2023 10:30,Tuesday Day,---,07:30,19:45,12.25,10.89,133.40,11.00,15.34,168.74,invoiced
+shift,HF1CA453,Doris,Akue,Support Worker,Priory Group,255 Lichfield Road,29-01-2023,30-01-2023 10:30,Sunday Day,---,07:30,20:00,12.50,12.32,154.00,11.00,17.35,190.85,invoiced
+2 shifts,HF1CA465,Hamid,Abdallah,HCA,Sallong Limited,Gingercroft,23-01-2023 to 29-01-2023,,,---,,,24.00,11.50,276.00,24.00,17.86,428.64,
+shift,HF1CA465,Hamid,Abdallah,HCA,Sallong Limited,Gingercroft,23-01-2023,02-02-2023 16:21,Monday Day,---,08:00,20:00,12.00,11.50,138.00,12.00,17.86,214.32,pending
+shift,HF1CA465,Hamid,Abdallah,HCA,Sallong Limited,Gingercroft,24-01-2023,02-02-2023 16:21,Tuesday Day,---,08:00,20:00,12.00,11.50,138.00,12.00,17.86,214.32,pending
+2 shifts,HF1CA477,Kehinde,Adejugbe,Support Worker,Accomplish Group,Malvern View,23-01-2023 to 29-01-2023,,,---,,,7.00,multiple,98.50,7.00,multiple,154.41,
+shift,HF1CA477,Kehinde,Adejugbe,Support Worker,Accomplish Group,Malvern View,29-01-2023,30-01-2023 10:30,Sunday Day,---,14:00,20:00,6.00,14.00,84.00,6.00,21.94,131.64,invoiced
+shift,HF1CA477,Kehinde,Adejugbe,Support Worker,Accomplish Group,Malvern View,29-01-2023,30-01-2023 10:30,Sunday Day,---,20:00,21:00,1.00,14.50,14.50,1.00,22.77,22.77,invoiced
+1 shift,HF1CA481,Timilehin,Osinubi,Support Worker,Livability,York House,23-01-2023 to 29-01-2023,,,---,,,7.00,12.00,84.00,7.00,18.69,130.83,
+shift,HF1CA481,Timilehin,Osinubi,Support Worker,Livability,York House,27-01-2023,30-01-2023 10:30,Friday Day,---,08:00,15:00,7.00,12.00,84.00,7.00,18.69,130.83,invoiced
+3 shifts,HF1CA487,Abisola,Olubanwo,multiple,multiple,multiple,23-01-2023 to 29-01-2023,,,---,,,30.00,multiple,365.60,30.00,multiple,510.30,
+shift,HF1CA487,Abisola,Olubanwo,HCA,Cliffdale Limited,Highgate Lodge Care Home,26-01-2023,30-01-2023 10:30,Thursday Night,---,22:00,08:00,10.00,12.00,120.00,10.00,16.06,160.60,invoiced
+shift,HF1CA487,Abisola,Olubanwo,HCA,Cliffdale Limited,Highgate Lodge Care Home,28-01-2023,30-01-2023 10:30,Saturday Night,---,22:00,08:00,10.00,12.00,120.00,10.00,17.03,170.30,invoiced
+shift,HF1CA487,Abisola,Olubanwo,Support Worker,Priory Group,Leonard's Croft,29-01-2023,30-01-2023 10:30,Sunday Night,---,22:00,08:00,10.00,12.56,125.60,10.00,17.94,179.40,invoiced
+5 shifts,HF1CA488,Paul,Kacou,Support Worker,Swanton Care,Darwin Place,23-01-2023 to 29-01-2023,,,---,,,38.00,multiple,467.00,38.00,multiple,728.26,
+shift,HF1CA488,Paul,Kacou,Support Worker,Swanton Care,Darwin Place,24-01-2023,30-01-2023 10:30,Tuesday Day,---,20:00,08:00,12.00,12.50,150.00,12.00,19.51,234.12,invoiced
+shift,HF1CA488,Paul,Kacou,Support Worker,Swanton Care,Darwin Place,24-01-2023,30-01-2023 10:30,Tuesday Day,---,08:00,10:00,2.00,12.00,24.00,2.00,18.69,37.38,invoiced
+shift,HF1CA488,Paul,Kacou,Support Worker,Swanton Care,Darwin Place,25-01-2023,30-01-2023 10:30,Wednesday Night,---,22:00,08:00,10.00,12.50,125.00,10.00,19.51,195.10,invoiced
+shift,HF1CA488,Paul,Kacou,Support Worker,Swanton Care,Darwin Place,25-01-2023,30-01-2023 10:30,Wednesday Night,---,08:00,10:00,2.00,12.00,24.00,2.00,18.69,37.38,invoiced
+shift,HF1CA488,Paul,Kacou,Support Worker,Swanton Care,Darwin Place,27-01-2023,30-01-2023 10:30,Friday Day,---,08:00,20:00,12.00,12.00,144.00,12.00,18.69,224.28,invoiced
+2 shifts,HF1CA489,Albert,Ossai,Support Worker,Swanton Care,multiple,23-01-2023 to 29-01-2023,,,---,,,18.00,multiple,241.00,18.00,multiple,377.22,
+shift,HF1CA489,Albert,Ossai,Support Worker,Swanton Care,12 Magnolia Drive,24-01-2023,30-01-2023 10:30,Tuesday Day,---,12:00,20:00,8.00,12.00,96.00,8.00,18.69,149.52,invoiced
+shift,HF1CA489,Albert,Ossai,Support Worker,Swanton Care,Darwin Place,29-01-2023,30-01-2023 10:30,Sunday Night,---,22:00,08:00,10.00,14.50,145.00,10.00,22.77,227.70,invoiced
+4 shifts,HF95CA490,Muhabat,Lawal,Support Worker,multiple,multiple,23-01-2023 to 29-01-2023,,,---,,,34.00,multiple,423.40,34.00,multiple,632.22,
+shift,HF95CA490,Muhabat,Lawal,Support Worker,Priory Group,Leonard's Croft,24-01-2023,30-01-2023 10:30,Tuesday Night,---,22:00,08:00,10.00,11.32,113.20,10.00,16.17,161.70,invoiced
+shift,HF95CA490,Muhabat,Lawal,Support Worker,Priory Group,Leonard's Croft,25-01-2023,30-01-2023 10:30,Wednesday Night,---,22:00,08:00,10.00,11.32,113.20,10.00,16.17,161.70,invoiced
+shift,HF95CA490,Muhabat,Lawal,Support Worker,Swanton Care,Darwin Place,29-01-2023,30-01-2023 10:30,Sunday Day,---,08:00,20:00,12.00,14.00,168.00,12.00,21.94,263.28,invoiced
+shift,HF95CA490,Muhabat,Lawal,Support Worker,Swanton Care,Darwin Place,29-01-2023,30-01-2023 10:30,Sunday Day,---,20:00,22:00,2.00,14.50,29.00,2.00,22.77,45.54,invoiced
+1 shift,HF1CA499,Bukola,Osibanjo,HCA,Cliffdale Limited,Highgate Lodge Care Home,23-01-2023 to 29-01-2023,,,---,,,10.00,12.00,120.00,10.00,17.81,178.10,
+shift,HF1CA499,Bukola,Osibanjo,HCA,Cliffdale Limited,Highgate Lodge Care Home,29-01-2023,30-01-2023 10:30,Sunday Night,---,22:00,08:00,10.00,12.00,120.00,10.00,17.81,178.10,invoiced
+1 shift,HF1CA503,ALBERTA,OSEI-KUFUOR,Support Worker,Priory Group,Leonard's Croft,23-01-2023 to 29-01-2023,,,---,,,10.00,11.32,113.20,10.00,16.17,161.70,
+shift,HF1CA503,ALBERTA,OSEI-KUFUOR,Support Worker,Priory Group,Leonard's Croft,26-01-2023,30-01-2023 10:30,Thursday Night,---,22:00,08:00,10.00,11.32,113.20,10.00,16.17,161.70,invoiced
+3 shifts,HF1CA504,Adeola,Ladeji,Support Worker,Macintyre Care,52 Murrell Way,23-01-2023 to 29-01-2023,,,---,,,15.00,multiple,210.50,15.00,multiple,329.95,
+shift,HF1CA504,Adeola,Ladeji,Support Worker,Macintyre Care,52 Murrell Way,29-01-2023,30-01-2023 10:30,Sunday Day,---,07:00,08:00,1.00,13.50,13.50,1.00,21.13,21.13,invoiced
+shift,HF1CA504,Adeola,Ladeji,Support Worker,Macintyre Care,52 Murrell Way,29-01-2023,30-01-2023 10:30,Sunday Day,---,08:00,20:00,12.00,14.00,168.00,12.00,21.94,263.28,invoiced
+shift,HF1CA504,Adeola,Ladeji,Support Worker,Macintyre Care,52 Murrell Way,29-01-2023,30-01-2023 10:30,Sunday Day,---,20:00,22:00,2.00,14.50,29.00,2.00,22.77,45.54,invoiced
+4 shifts,HF1CA524,Lukuman,Waheed,Support Worker,Swanton Care,Darwin Place,23-01-2023 to 29-01-2023,,,---,,,26.00,multiple,352.00,26.00,multiple,551.16,
+shift,HF1CA524,Lukuman,Waheed,Support Worker,Swanton Care,Darwin Place,28-01-2023,30-01-2023 10:30,Saturday Day,---,08:00,20:00,12.00,13.00,156.00,12.00,20.33,243.96,invoiced
+shift,HF1CA524,Lukuman,Waheed,Support Worker,Swanton Care,Darwin Place,28-01-2023,30-01-2023 10:30,Saturday Day,---,20:00,22:00,2.00,13.50,27.00,2.00,21.13,42.26,invoiced
+shift,HF1CA524,Lukuman,Waheed,Support Worker,Swanton Care,Darwin Place,29-01-2023,30-01-2023 10:30,Sunday Day,---,10:00,20:00,10.00,14.00,140.00,10.00,21.94,219.40,invoiced
+shift,HF1CA524,Lukuman,Waheed,Support Worker,Swanton Care,Darwin Place,29-01-2023,30-01-2023 10:30,Sunday Day,---,20:00,22:00,2.00,14.50,29.00,2.00,22.77,45.54,invoiced
+1 shift,HF1CA530,Brown,Nweneary,Support Worker,Bond Care,The New Barn,23-01-2023 to 29-01-2023,,,---,,,10.00,12.50,125.00,10.00,19.51,195.10,
+shift,HF1CA530,Brown,Nweneary,Support Worker,Bond Care,The New Barn,27-01-2023,30-01-2023 10:30,Friday Night,---,22:00,08:00,10.00,12.50,125.00,10.00,19.51,195.10,invoiced
+,,,,,,,,,,,,,946.92,,"11,961.14",944.17,,"18,417.20",

@@ -4,37 +4,47 @@ import axios from "axios";
 
 
 const Uploads = () => {
-    const [invoice, setInvoice] = useState(null);
+    const [invoices, setInvoices] = useState([]);
     const [successMessage, setSuccessMessage] = useState('');
 
     const handleUpload = async () => {
-        if (invoice && invoice.size <= 15 * 1024 * 1024 && invoice.type === 'text/csv') {
-            console.log("In invoice stage: ", process.env.REACT_APP_API_URL)
+        if (invoices.length > 0) {
+            console.log("In invoice stage: ", process.env.REACT_APP_API_URL);
             const currentDate = new Date().toLocaleDateString();
-            setSuccessMessage(`Invoices ${invoice.name} were uploaded successfully on ${currentDate}`);
+            const uploadedFiles = [];
             const axiosInstance = axios.create({
                 baseURL: process.env.REACT_APP_API_URL,
             });
-            const data = new FormData();
-            data.append("files", invoice);
-
             try {
-                await axiosInstance.post("/uploads", data)
+                for (let i = 0; i < invoices.length; i++) {
+                    const invoice = invoices[i];
+                    if (invoice.size <= 15 * 1024 * 1024 && invoice.type === 'text/csv') {
+                        const data = new FormData();
+                        data.append("files", invoice);
+                        await axiosInstance.post("/file/uploads", data);
+                        uploadedFiles.push(invoice.name);
+                    }
+                }
+                if (uploadedFiles.length > 0) {
+                    setSuccessMessage(`Invoices ${uploadedFiles.join(', ')} were uploaded successfully on ${currentDate}`);
+                } else {
+                    setSuccessMessage('');
+                    alert('No valid files found for upload.');
+                }
             } catch (error) {
                 setSuccessMessage('');
                 console.log(error);
             }
         } else {
             setSuccessMessage('');
-            // Display an error message if the file is invalid
-            if (!invoice) {
-                alert('Please select a file to upload.');
-            } else if (invoice.size > 15 * 1024 * 1024) {
-                alert('File size exceeds the maximum limit of 15MB.');
-            } else if (invoice.type !== 'text/csv') {
-                alert('Invalid file format. Only CSV files are allowed.');
-            }
+            alert('Please select at least one file to upload.');
         }
+    };
+
+    const handleFileChange = (e) => {
+        const files = e.target.files;
+        const fileArray = Array.from(files);
+        setInvoices(fileArray);
     };
 
     return (
@@ -54,7 +64,7 @@ const Uploads = () => {
                                     type="file"
                                     accept=".csv"
                                     multiple="multiple"
-                                    onChange={(e) => setInvoice(e.target.files[0])}
+                                    onChange={handleFileChange}
                                 />
                                 <button onClick={handleUpload}>Upload</button>
                             </div>
