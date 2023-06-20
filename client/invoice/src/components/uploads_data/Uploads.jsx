@@ -5,7 +5,9 @@ import axios from "axios";
 
 const Uploads = () => {
     const [invoices, setInvoices] = useState([]);
-    const [successMessage, setSuccessMessage] = useState('');
+    const [successMessage, setSuccessMessage] = useState(null);
+//   const [errorMessage, setErrorMessage] = useState(null);
+    const [invoiceMessage, setInvoicemessage]= useState(null)
 
     const handleUpload = async () => {
         if (invoices.length > 0) {
@@ -46,7 +48,31 @@ const Uploads = () => {
         const fileArray = Array.from(files);
         setInvoices(fileArray);
     };
+     const buttonStyle = {
+    borderRadius: '5px',
+  };
 
+    
+
+  const handleGenerateInvoices = () => {
+    setInvoicemessage("Generating invoices...");
+
+    axios
+      .post("http://127.0.0.1:5000/api/invoice/generate/invoices")
+      .then((response) => {
+        setInvoicemessage(response.data);
+        setTimeout(() => {
+          setInvoicemessage(null);
+        }, 4000);
+      })
+      .catch((error) => {
+        console.error("Error generating invoices:", error);
+        setInvoicemessage("Error generating invoices");
+        setTimeout(() => {
+          setInvoicemessage(null);
+        }, 4000);
+      });
+  };
     return (
         <section className="uploads-data">
             <div className="container">
@@ -57,6 +83,7 @@ const Uploads = () => {
                             <div className="left">
                                 <h4>Invoice</h4>
                                 <hr />
+                                {invoiceMessage && <p style={{ color: 'green', fontSize: '12px' }}>{ invoiceMessage }</p>}
                                 <p>Please select a file and click the "Upload" button to continue</p>
                                 <label htmlFor="fileUpload">CSV Files:</label>
                                 <input
@@ -66,7 +93,17 @@ const Uploads = () => {
                                     multiple="multiple"
                                     onChange={handleFileChange}
                                 />
-                                <button onClick={handleUpload}>Upload</button>
+                                <div style={{ display: 'flex', justifyContent: 'space-between' }}>
+                                <div>
+                                    <button onClick={handleUpload} style={buttonStyle}>Upload</button>
+                                </div>
+                                <div>
+                                    <button onClick={handleGenerateInvoices} style={{ ...buttonStyle, backgroundColor: 'blue', color: 'white' }} >Generate Invoices</button>
+                                </div>
+                                </div>
+                                
+
+                               
                             </div>
                             <div className="right">
                                 {successMessage && <p>{successMessage}</p>}

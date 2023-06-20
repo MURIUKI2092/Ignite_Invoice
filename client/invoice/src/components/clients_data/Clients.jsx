@@ -1,25 +1,21 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
+import axios from 'axios';
 import './clients.css';
 
 const Clients = () => {
-  const clientsData = [
-    { client: 'Client 1', name: 'John Doe', outstanding: 10000, overdue: 5000 },
-    { client: 'Client 2', name: 'Jane Smith', outstanding: 15000, overdue: 3000 },
-    { client: 'Client 3', name: 'David Johnson', outstanding: 8000, overdue: 2000 },
-    { client: 'Client 4', name: 'Emily Davis', outstanding: 12000, overdue: 4000 },
-    { client: 'Client 5', name: 'Michael Brown', outstanding: 20000, overdue: 7000 },
-    { client: 'Client 6', name: 'Olivia Wilson', outstanding: 9000, overdue: 1500 },
-    { client: 'Client 7', name: 'William Taylor', outstanding: 18000, overdue: 6000 },
-    { client: 'Client 8', name: 'Sophia Anderson', outstanding: 11000, overdue: 3500 },
-    { client: 'Client 9', name: 'James Martinez', outstanding: 13000, overdue: 2500 },
-    { client: 'Client 10', name: 'Ava Thomas', outstanding: 17000, overdue: 4500 },
-    { client: 'Client 11', name: 'Benjamin Hernandez', outstanding: 14000, overdue: 3800 },
-    { client: 'Client 12', name: 'Mia Moore', outstanding: 16000, overdue: 4200 },
-    { client: 'Client 13', name: 'Daniel Clark', outstanding: 22000, overdue: 8000 },
-    { client: 'Client 14', name: 'Sofia Lewis', outstanding: 10000, overdue: 3000 },
-    { client: 'Client 15', name: 'Henry Lee', outstanding: 19000, overdue: 5500 },
-  ];
-
+  const [data, setData] = useState([]);
+  useEffect(() => {
+    axios.get('http://127.0.0.1:5000/api/all/clients')
+      .then(response => {
+        // Handle the response data
+          console.log(response.data,">>>>>>>>>>this is the response");
+        setData(response.data);
+      })
+      .catch(error => {
+        // Handle any errors
+        console.error(error);
+      });
+  }, []);
   return (
     <section className="clients-data">
       <div className="container">
@@ -39,12 +35,12 @@ const Clients = () => {
                   </tr>
                 </thead>
                 <tbody>
-                  {clientsData.map((client, index) => (
+                  {data.map((client, index) => (
                     <tr key={index}>
+                      <td>{client._id}</td>
                       <td>{client.client}</td>
-                      <td>{client.name}</td>
-                      <td>{client.outstanding}</td>
-                      <td>{client.overdue}</td>
+                      <td>{client.grandTotal}</td>
+                      <td>{client.balanceAmount}</td>
                     </tr>
                   ))}
                 </tbody>

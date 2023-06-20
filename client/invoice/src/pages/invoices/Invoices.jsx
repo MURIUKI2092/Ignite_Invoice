@@ -1,8 +1,9 @@
 import React from 'react'
 import "./invoices.css"
 import { Helmet } from 'react-helmet'
-import Header from '../../components/header/Header'
-import Sidebar from '../../components/sidebar/Sidebar'
+import Header from '../../components/header/Header';
+import Sidebar from '../../components/sidebar/Sidebar';
+import Invoice from '../../components/invoice/invoice';
 
 export default function Invoices() {
     return (
@@ -14,7 +15,11 @@ export default function Invoices() {
                 <link rel="canonical" href="/invoices" />
             </Helmet>
             <Header />
-            <Sidebar />
+            <div className="clients-page">
+                <Sidebar />
+               <Invoice/>
+            </div>
+            
         </>
     )
 }

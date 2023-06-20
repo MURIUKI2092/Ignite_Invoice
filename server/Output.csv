@@ -1,0 +1,162 @@
+,Starting Point,Ending Point,Distance Traveled (Miles),Total Cost,Business Unit,Shift Date,Employee First Name,Employee Last Name,Hours,Charge Rate,Total Charge,Invoice_date,due_date,status
+0,WV10 8SW,"Glebe Rd, Bayston Hill, Shrewsbury SY3 0PZ, UK",61.8,95.00,York House,05-09-2022,Irene,Amadu- Alexandra,10.00,14.18,141.80,2023-06-20,2023-07-20,unpaid
+1,WV10 8SW,"Glebe Rd, Bayston Hill, Shrewsbury SY3 0PZ, UK",61.8,95.00,York House,06-09-2022,Irene,Amadu- Alexandra,10.00,14.18,141.80,2023-06-20,2023-07-20,unpaid
+2,WV10 8SW,"Ruckley, Acton Burnell, Shrewsbury SY5 7HR, UK",68.2,66.00,Ruckley Home Farm  (Bethphage),06-09-2022,Irene,Amadu- Alexandra,5.50,18.69,102.80,2023-06-20,2023-07-20,unpaid
+3,WV10 8SW,"Ruckley, Acton Burnell, Shrewsbury SY5 7HR, UK",68.2,25.00,Ruckley Home Farm  (Bethphage),06-09-2022,Irene,Amadu- Alexandra,2.00,19.51,39.02,2023-06-20,2023-07-20,unpaid
+4,WV10 8SW,"5 Athersmith Cl, Telford TF4 2BJ, UK",445.0,96.00,5 Athersmith Close,07-09-2022,Irene,Amadu- Alexandra,8.00,18.69,149.52,2023-06-20,2023-07-20,unpaid
+5,WV10 8SW,"Glebe Rd, Bayston Hill, Shrewsbury SY3 0PZ, UK",61.8,125.00,York House,07-09-2022,Irene,Amadu- Alexandra,10.00,19.51,195.10,2023-06-20,2023-07-20,unpaid
+6,WV10 8SW,"Parville House, Crescent Rd, Wellington, Telford TF1 3DL, UK",39.8,144.00,Flat 1 - Parville House,09-09-2022,Irene,Amadu- Alexandra,12.00,18.69,224.28,2023-06-20,2023-07-20,unpaid
+7,WV10 8SW,"Parville House, Crescent Rd, Wellington, Telford TF1 3DL, UK",39.8,25.00,Flat 1 - Parville House,09-09-2022,Irene,Amadu- Alexandra,2.00,19.51,39.02,2023-06-20,2023-07-20,unpaid
+8,WV10 8SW,"Parville House, Crescent Rd, Wellington, Telford TF1 3DL, UK",39.8,95.00,Flat 1 - Parville House,09-09-2022,Irene,Amadu- Alexandra,10.00,14.18,141.80,2023-06-20,2023-07-20,unpaid
+9,WV10 8SW,"93 Sutton Rd, Shrewsbury SY2 6ED, UK",445.0,135.00,93 Sutton Road (Bethphage),10-09-2022,Irene,Amadu- Alexandra,10.00,21.13,211.30,2023-06-20,2023-07-20,unpaid
+10,WV10 8SW,"Deepdale, Telford TF3 2EJ, UK",187.0,156.00,50 Deepdale,10-09-2022,Irene,Amadu- Alexandra,12.00,20.33,243.96,2023-06-20,2023-07-20,unpaid
+11,WV10 8SW,"Deepdale, Telford TF3 2EJ, UK",187.0,27.00,50 Deepdale,10-09-2022,Irene,Amadu- Alexandra,2.00,21.13,42.26,2023-06-20,2023-07-20,unpaid
+12,WV10 8SW,"Deepdale, Telford TF3 2EJ, UK",187.0,168.00,50 Deepdale,11-09-2022,Irene,Amadu- Alexandra,12.00,21.94,263.28,2023-06-20,2023-07-20,unpaid
+13,WV10 8SW,"Deepdale, Telford TF3 2EJ, UK",187.0,29.00,50 Deepdale,11-09-2022,Irene,Amadu- Alexandra,2.00,22.77,45.54,2023-06-20,2023-07-20,unpaid
+14,TF1 5PF,"12 Magnolia Dr, Overdale, Telford TF3, 5EG UK",-5.0,96.00,12 Magnolia Drive,05-09-2022,Charles,Edling,8.00,18.69,149.52,2023-06-20,2023-07-20,unpaid
+15,TF1 5PF,"12 Magnolia Dr, Overdale, Telford TF3, 5EG UK",-5.0,48.00,12 Magnolia Drive,06-09-2022,Charles,Edling,4.00,18.69,74.76,2023-06-20,2023-07-20,unpaid
+16,TF1 5PF,"12 Magnolia Dr, Overdale, Telford TF3, 5EG UK",-5.0,25.00,12 Magnolia Drive,06-09-2022,Charles,Edling,2.00,19.51,39.02,2023-06-20,2023-07-20,unpaid
+17,TF1 5PF,"12 Magnolia Dr, Overdale, Telford TF3, 5EG UK",-5.0,60.00,12 Magnolia Drive,07-09-2022,Charles,Edling,5.00,18.69,93.45,2023-06-20,2023-07-20,unpaid
+18,TF1 5PF,"Goldstone, Market Drayton TF9 2NA, UK",31.4,125.00,The New Barn,09-09-2022,Charles,Edling,10.00,19.51,195.10,2023-06-20,2023-07-20,unpaid
+19,TF1 5PF,"12 Magnolia Dr, Overdale, Telford TF3, 5EG UK",-5.0,65.00,12 Magnolia Drive,10-09-2022,Charles,Edling,5.00,20.33,101.65,2023-06-20,2023-07-20,unpaid
+20,TF1 5PF,"12 Magnolia Dr, Overdale, Telford TF3, 5EG UK",-5.0,56.00,12 Magnolia Drive,11-09-2022,Charles,Edling,4.00,21.94,87.76,2023-06-20,2023-07-20,unpaid
+21,TF1 5PF,"12 Magnolia Dr, Overdale, Telford TF3, 5EG UK",-5.0,29.00,12 Magnolia Drive,11-09-2022,Charles,Edling,2.00,22.77,45.54,2023-06-20,2023-07-20,unpaid
+22,WV10 9AG,"46 Upper Rd, Meole Brace, Shrewsbury SY3 9JQ, UK",61.2,96.00,The Rowans,05-09-2022,Peter,Wansema,8.00,18.69,149.52,2023-06-20,2023-07-20,unpaid
+23,WV10 9AG,"46 Upper Rd, Meole Brace, Shrewsbury SY3 9JQ, UK",61.2,31.25,The Rowans,05-09-2022,Peter,Wansema,2.50,19.51,48.78,2023-06-20,2023-07-20,unpaid
+24,WV10 9AG,"Glebe Rd, Bayston Hill, Shrewsbury SY3 0PZ, UK",61.8,125.00,York House,06-09-2022,Peter,Wansema,10.00,19.51,195.10,2023-06-20,2023-07-20,unpaid
+25,WV10 9AG,"Glebe Rd, Bayston Hill, Shrewsbury SY3 0PZ, UK",61.8,60.00,York House,08-09-2022,Peter,Wansema,5.00,18.69,93.45,2023-06-20,2023-07-20,unpaid
+26,WV10 9AG,"Glebe Rd, Bayston Hill, Shrewsbury SY3 0PZ, UK",61.8,25.00,York House,08-09-2022,Peter,Wansema,2.00,19.51,39.02,2023-06-20,2023-07-20,unpaid
+27,WV10 9AG,"46 Upper Rd, Meole Brace, Shrewsbury SY3 9JQ, UK",61.2,104.00,The Rowans,10-09-2022,Peter,Wansema,8.00,20.33,162.64,2023-06-20,2023-07-20,unpaid
+28,WV10 9AG,"46 Upper Rd, Meole Brace, Shrewsbury SY3 9JQ, UK",61.2,33.75,The Rowans,10-09-2022,Peter,Wansema,2.50,21.13,52.83,2023-06-20,2023-07-20,unpaid
+29,WV10 9AG,"Glebe Rd, Bayston Hill, Shrewsbury SY3 0PZ, UK",61.8,70.00,York House,11-09-2022,Peter,Wansema,5.00,21.94,109.70,2023-06-20,2023-07-20,unpaid
+30,WV10 9AG,"Glebe Rd, Bayston Hill, Shrewsbury SY3 0PZ, UK",61.8,29.00,York House,11-09-2022,Peter,Wansema,2.00,22.77,45.54,2023-06-20,2023-07-20,unpaid
+31,B71 4LN,"Knowsley Dr, Bicton Heath, Shrewsbury SY3 5DH, UK",88.4,46.00,Ideal Home,05-09-2022,Ramadhani,Malinde,4.00,17.86,71.44,2023-06-20,2023-07-20,unpaid
+32,B71 4LN,"Knowsley Dr, Bicton Heath, Shrewsbury SY3 5DH, UK",88.4,129.00,Ideal Home,05-09-2022,Ramadhani,Malinde,10.75,18.67,200.70,2023-06-20,2023-07-20,unpaid
+33,B71 4LN,"Knowsley Dr, Bicton Heath, Shrewsbury SY3 5DH, UK",88.4,46.00,Ideal Home,06-09-2022,Ramadhani,Malinde,4.00,17.86,71.44,2023-06-20,2023-07-20,unpaid
+34,B71 4LN,"Knowsley Dr, Bicton Heath, Shrewsbury SY3 5DH, UK",88.4,129.00,Ideal Home,06-09-2022,Ramadhani,Malinde,10.75,18.67,200.70,2023-06-20,2023-07-20,unpaid
+35,B71 4LN,"Knowsley Dr, Bicton Heath, Shrewsbury SY3 5DH, UK",88.4,108.00,Ideal Home,07-09-2022,Ramadhani,Malinde,9.00,18.67,168.03,2023-06-20,2023-07-20,unpaid
+36,B71 4LN,"Knowsley Dr, Bicton Heath, Shrewsbury SY3 5DH, UK",88.4,46.00,Ideal Home,08-09-2022,Ramadhani,Malinde,4.00,17.86,71.44,2023-06-20,2023-07-20,unpaid
+37,B71 4LN,"Knowsley Dr, Bicton Heath, Shrewsbury SY3 5DH, UK",88.4,129.00,Ideal Home,08-09-2022,Ramadhani,Malinde,10.75,18.67,200.70,2023-06-20,2023-07-20,unpaid
+38,B71 4LN,"Knowsley Dr, Bicton Heath, Shrewsbury SY3 5DH, UK",88.4,46.00,Ideal Home,09-09-2022,Ramadhani,Malinde,4.00,17.86,71.44,2023-06-20,2023-07-20,unpaid
+39,B71 4LN,"Knowsley Dr, Bicton Heath, Shrewsbury SY3 5DH, UK",88.4,129.00,Ideal Home,09-09-2022,Ramadhani,Malinde,10.75,18.67,200.70,2023-06-20,2023-07-20,unpaid
+40,B71 4LN,"Knowsley Dr, Bicton Heath, Shrewsbury SY3 5DH, UK",88.4,81.00,Ideal Home,10-09-2022,Ramadhani,Malinde,6.00,19.48,116.88,2023-06-20,2023-07-20,unpaid
+41,B71 4LN,"Knowsley Dr, Bicton Heath, Shrewsbury SY3 5DH, UK",88.4,27.00,Ideal Home,10-09-2022,Ramadhani,Malinde,2.00,20.30,40.60,2023-06-20,2023-07-20,unpaid
+42,WV13 2SA,"15 Innage Gardens, Bridgnorth WV16 4HW, UK",451.0,42.00,15 Innage Gardens  (Bethphage),08-09-2022,Nankyer,Micah Umaru,3.50,18.69,65.42,2023-06-20,2023-07-20,unpaid
+43,WV13 2SA,"15 Innage Gardens, Bridgnorth WV16 4HW, UK",451.0,37.50,15 Innage Gardens  (Bethphage),08-09-2022,Nankyer,Micah Umaru,3.00,19.51,58.53,2023-06-20,2023-07-20,unpaid
+44,WV13 2SA,"15 Innage Gardens, Bridgnorth WV16 4HW, UK",451.0,76.00,15 Innage Gardens  (Bethphage),08-09-2022,Nankyer,Micah Umaru,8.00,14.18,113.44,2023-06-20,2023-07-20,unpaid
+45,WV13 2SA,"15 Innage Gardens, Bridgnorth WV16 4HW, UK",451.0,12.50,15 Innage Gardens  (Bethphage),09-09-2022,Nankyer,Micah Umaru,1.00,19.51,19.51,2023-06-20,2023-07-20,unpaid
+46,WV13 2SA,"15 Innage Gardens, Bridgnorth WV16 4HW, UK",451.0,102.00,15 Innage Gardens  (Bethphage),09-09-2022,Nankyer,Micah Umaru,8.50,18.69,158.87,2023-06-20,2023-07-20,unpaid
+47,WV10 9AG,"Sunnyside Rd, Telford TF2 0AA, UK",449.0,84.50,The Crown Apartment,10-09-2022,Risikatu,Adebala,6.50,20.33,132.15,2023-06-20,2023-07-20,unpaid
+48,WV1 4RQ,"Glebe Rd, Bayston Hill, Shrewsbury SY3 0PZ, UK",60.8,125.00,York House,05-09-2022,Erhuvwu,Onoetiyi,10.00,19.51,195.10,2023-06-20,2023-07-20,unpaid
+49,WV1 4RQ,"Glebe Rd, Bayston Hill, Shrewsbury SY3 0PZ, UK",60.8,125.00,York House,08-09-2022,Erhuvwu,Onoetiyi,10.00,19.51,195.10,2023-06-20,2023-07-20,unpaid
+50,WV1 4RQ,"Glebe Rd, Bayston Hill, Shrewsbury SY3 0PZ, UK",60.8,135.00,York House,10-09-2022,Erhuvwu,Onoetiyi,10.00,21.13,211.30,2023-06-20,2023-07-20,unpaid
+51,WV1 4RQ,"Glebe Rd, Bayston Hill, Shrewsbury SY3 0PZ, UK",60.8,145.00,York House,11-09-2022,Erhuvwu,Onoetiyi,10.00,22.77,227.70,2023-06-20,2023-07-20,unpaid
+52,B66 4QY,"93 Sutton Rd, Shrewsbury SY2 6ED, UK",467.0,125.00,93 Sutton Road (Bethphage),06-09-2022,Ronnie,Nsubuga,10.00,19.51,195.10,2023-06-20,2023-07-20,unpaid
+53,B66 4QY,"93 Sutton Rd, Shrewsbury SY2 6ED, UK",467.0,125.00,93 Sutton Road (Bethphage),07-09-2022,Ronnie,Nsubuga,10.00,19.51,195.10,2023-06-20,2023-07-20,unpaid
+54,B66 4QY,"93 Little Harlescott Ln, Shrewsbury SY1 3PD, UK",467.0,125.00,93 Little Harlescott Ln (Bethphage),08-09-2022,Ronnie,Nsubuga,10.00,19.51,195.10,2023-06-20,2023-07-20,unpaid
+55,B66 4QY,"93 Sutton Rd, Shrewsbury SY2 6ED, UK",467.0,145.00,93 Sutton Road (Bethphage),11-09-2022,Ronnie,Nsubuga,10.00,22.77,227.70,2023-06-20,2023-07-20,unpaid
+56,WV1 1HA,"573 Birmingham Rd, Lydiate Ash, Bromsgrove B61 0HX, UK",41.2,125.00,Malvern View,09-09-2022,Adejoke,Bello,10.00,19.51,195.10,2023-06-20,2023-07-20,unpaid
+57,TF1 6QR,"Glebe Rd, Bayston Hill, Shrewsbury SY3 0PZ, UK",25.8,84.00,York House,09-09-2022,Victor,Imafidon,7.00,18.69,130.83,2023-06-20,2023-07-20,unpaid
+58,TF1 6QR,"12 Magnolia Dr, Overdale, Telford TF3, 5EG UK",-5.0,104.00,12 Magnolia Drive,10-09-2022,Victor,Imafidon,8.00,20.33,162.64,2023-06-20,2023-07-20,unpaid
+59,WV6 0PP,"35 Cedar Cl, St Martin's, Oswestry SY11 3QF, UK",106.4,66.00,35 Cedar Close,06-09-2022,Harjot,Kaur,5.50,18.69,102.80,2023-06-20,2023-07-20,unpaid
+60,WV6 0PP,"35 Cedar Cl, St Martin's, Oswestry SY11 3QF, UK",106.4,66.00,35 Cedar Close,09-09-2022,Harjot,Kaur,5.50,18.69,102.80,2023-06-20,2023-07-20,unpaid
+61,WV1 4AS,"Ruckley, Acton Burnell, Shrewsbury SY5 7HR, UK",63.2,135.00,Ruckley Home Farm  (Bethphage),05-09-2022,Loveth,Wuam,11.25,18.69,210.26,2023-06-20,2023-07-20,unpaid
+62,WV1 4AS,"Ruckley, Acton Burnell, Shrewsbury SY5 7HR, UK",63.2,25.00,Ruckley Home Farm  (Bethphage),05-09-2022,Loveth,Wuam,2.00,19.51,39.02,2023-06-20,2023-07-20,unpaid
+63,WV1 4AS,"Ruckley, Acton Burnell, Shrewsbury SY5 7HR, UK",63.2,144.00,Ruckley Home Farm  (Bethphage),06-09-2022,Loveth,Wuam,12.00,18.69,224.28,2023-06-20,2023-07-20,unpaid
+64,WV1 4AS,"Ruckley, Acton Burnell, Shrewsbury SY5 7HR, UK",63.2,25.00,Ruckley Home Farm  (Bethphage),06-09-2022,Loveth,Wuam,2.00,19.51,39.02,2023-06-20,2023-07-20,unpaid
+65,WV1 4AS,"Ruckley, Acton Burnell, Shrewsbury SY5 7HR, UK",63.2,144.00,Ruckley Home Farm  (Bethphage),07-09-2022,Loveth,Wuam,12.00,18.69,224.28,2023-06-20,2023-07-20,unpaid
+66,WV1 4AS,"Ruckley, Acton Burnell, Shrewsbury SY5 7HR, UK",63.2,25.00,Ruckley Home Farm  (Bethphage),07-09-2022,Loveth,Wuam,2.00,19.51,39.02,2023-06-20,2023-07-20,unpaid
+67,WV1 4AS,"Glebe Rd, Bayston Hill, Shrewsbury SY3 0PZ, UK",56.8,125.00,York House,09-09-2022,Loveth,Wuam,10.00,19.51,195.10,2023-06-20,2023-07-20,unpaid
+68,WV1 4AS,"Knowsley Dr, Bicton Heath, Shrewsbury SY3 5DH, UK",63.400000000000006,82.08,Ideal Home,11-09-2022,Loveth,Wuam,6.08,21.11,128.35,2023-06-20,2023-07-20,unpaid
+69,WV1 4AS,"Knowsley Dr, Bicton Heath, Shrewsbury SY3 5DH, UK",63.400000000000006,28.00,Ideal Home,11-09-2022,Loveth,Wuam,2.00,21.92,43.84,2023-06-20,2023-07-20,unpaid
+70,WV2 1AA,"93 Little Harlescott Ln, Shrewsbury SY1 3PD, UK",451.0,125.00,93 Little Harlescott Ln (Bethphage),06-09-2022,Oluwakayode,Ojobo,10.00,19.51,195.10,2023-06-20,2023-07-20,unpaid
+71,WV2 1AA,"Sunnyside Rd, Telford TF2 0AA, UK",451.0,48.00,The Crown Apartment,08-09-2022,Oluwakayode,Ojobo,4.00,18.69,74.76,2023-06-20,2023-07-20,unpaid
+72,WV2 1AA,"Sunnyside Rd, Telford TF2 0AA, UK",451.0,25.00,The Crown Apartment,08-09-2022,Oluwakayode,Ojobo,2.00,19.51,39.02,2023-06-20,2023-07-20,unpaid
+73,WV2 1AA,"93 Little Harlescott Ln, Shrewsbury SY1 3PD, UK",451.0,60.00,93 Little Harlescott Ln (Bethphage),09-09-2022,Oluwakayode,Ojobo,5.00,18.69,93.45,2023-06-20,2023-07-20,unpaid
+74,WV2 1AA,"93 Little Harlescott Ln, Shrewsbury SY1 3PD, UK",451.0,25.00,93 Little Harlescott Ln (Bethphage),09-09-2022,Oluwakayode,Ojobo,2.00,19.51,39.02,2023-06-20,2023-07-20,unpaid
+75,WV2 1AA,"93 Little Harlescott Ln, Shrewsbury SY1 3PD, UK",451.0,156.00,93 Little Harlescott Ln (Bethphage),10-09-2022,Oluwakayode,Ojobo,12.00,20.33,243.96,2023-06-20,2023-07-20,unpaid
+76,WV2 1AA,"93 Little Harlescott Ln, Shrewsbury SY1 3PD, UK",451.0,27.00,93 Little Harlescott Ln (Bethphage),10-09-2022,Oluwakayode,Ojobo,2.00,21.13,42.26,2023-06-20,2023-07-20,unpaid
+77,WV2 1AA,"Sunnyside Rd, Telford TF2 0AA, UK",451.0,70.00,The Crown Apartment,11-09-2022,Oluwakayode,Ojobo,5.00,21.94,109.70,2023-06-20,2023-07-20,unpaid
+78,WV2 1AA,"Sunnyside Rd, Telford TF2 0AA, UK",451.0,29.00,The Crown Apartment,11-09-2022,Oluwakayode,Ojobo,2.00,22.77,45.54,2023-06-20,2023-07-20,unpaid
+79,WV1 4PA,"Sunnyside Rd, Telford TF2 0AA, UK",449.0,104.00,The Crown Apartment,10-09-2022,David,Jayeoba,8.00,20.33,162.64,2023-06-20,2023-07-20,unpaid
+80,WV1 4PA,"Sunnyside Rd, Telford TF2 0AA, UK",449.0,119.00,The Crown Apartment,11-09-2022,David,Jayeoba,8.50,21.94,186.49,2023-06-20,2023-07-20,unpaid
+81,WV1 4PA,"Sunnyside Rd, Telford TF2 0AA, UK",449.0,14.50,The Crown Apartment,11-09-2022,David,Jayeoba,1.00,22.77,22.77,2023-06-20,2023-07-20,unpaid
+82,WV10 0AT,"156 Holyhead Rd, Wellington, Telford TF1 2DL, UK",38.2,161.00,Glanmore,11-09-2022,Sophia,Osague,11.50,21.94,252.31,2023-06-20,2023-07-20,unpaid
+83,WV10 0AT,"156 Holyhead Rd, Wellington, Telford TF1 2DL, UK",38.2,14.50,Glanmore,11-09-2022,Sophia,Osague,1.00,22.77,22.77,2023-06-20,2023-07-20,unpaid
+84,WV10 0JT,"156 Holyhead Rd, Wellington, Telford TF1 2DL, UK",37.2,138.00,Glanmore,05-09-2022,Aisha,Adetomiwa,11.50,18.69,214.94,2023-06-20,2023-07-20,unpaid
+85,WV10 0JT,"156 Holyhead Rd, Wellington, Telford TF1 2DL, UK",37.2,12.50,Glanmore,05-09-2022,Aisha,Adetomiwa,1.00,19.51,19.51,2023-06-20,2023-07-20,unpaid
+86,WV10 0JT,"156 Holyhead Rd, Wellington, Telford TF1 2DL, UK",37.2,138.00,Glanmore,06-09-2022,Aisha,Adetomiwa,11.50,18.69,214.94,2023-06-20,2023-07-20,unpaid
+87,WV10 0JT,"156 Holyhead Rd, Wellington, Telford TF1 2DL, UK",37.2,12.50,Glanmore,06-09-2022,Aisha,Adetomiwa,1.00,19.51,19.51,2023-06-20,2023-07-20,unpaid
+88,WV10 0JT,"156 Holyhead Rd, Wellington, Telford TF1 2DL, UK",37.2,138.00,Glanmore,07-09-2022,Aisha,Adetomiwa,11.50,18.69,214.94,2023-06-20,2023-07-20,unpaid
+89,WV10 0JT,"156 Holyhead Rd, Wellington, Telford TF1 2DL, UK",37.2,12.50,Glanmore,07-09-2022,Aisha,Adetomiwa,1.00,19.51,19.51,2023-06-20,2023-07-20,unpaid
+90,WV10 0JT,"156 Holyhead Rd, Wellington, Telford TF1 2DL, UK",37.2,138.00,Glanmore,08-09-2022,Aisha,Adetomiwa,11.50,18.69,214.94,2023-06-20,2023-07-20,unpaid
+91,WV10 0JT,"156 Holyhead Rd, Wellington, Telford TF1 2DL, UK",37.2,12.50,Glanmore,08-09-2022,Aisha,Adetomiwa,1.00,19.51,19.51,2023-06-20,2023-07-20,unpaid
+92,WV10 0JT,"156 Holyhead Rd, Wellington, Telford TF1 2DL, UK",37.2,138.00,Glanmore,09-09-2022,Aisha,Adetomiwa,11.50,18.69,214.94,2023-06-20,2023-07-20,unpaid
+93,WV10 0JT,"156 Holyhead Rd, Wellington, Telford TF1 2DL, UK",37.2,12.50,Glanmore,09-09-2022,Aisha,Adetomiwa,1.00,19.51,19.51,2023-06-20,2023-07-20,unpaid
+94,WV10 0JT,"156 Holyhead Rd, Wellington, Telford TF1 2DL, UK",37.2,149.50,Glanmore,10-09-2022,Aisha,Adetomiwa,11.50,20.33,233.80,2023-06-20,2023-07-20,unpaid
+95,WV10 0JT,"156 Holyhead Rd, Wellington, Telford TF1 2DL, UK",37.2,13.50,Glanmore,10-09-2022,Aisha,Adetomiwa,1.00,21.13,21.13,2023-06-20,2023-07-20,unpaid
+96,DY3 1YQ,"4 Maer Ln, Market Drayton TF9 3AL, UK",461.0,6.25,Maer Lane,06-09-2022,Jason,Holloway,0.50,19.51,9.76,2023-06-20,2023-07-20,unpaid
+97,DY3 1YQ,"4 Maer Ln, Market Drayton TF9 3AL, UK",461.0,144.00,Maer Lane,06-09-2022,Jason,Holloway,12.00,18.69,224.28,2023-06-20,2023-07-20,unpaid
+98,DY3 1YQ,"4 Maer Ln, Market Drayton TF9 3AL, UK",461.0,18.75,Maer Lane,06-09-2022,Jason,Holloway,1.50,19.51,29.27,2023-06-20,2023-07-20,unpaid
+99,DY3 1YQ,"4 Maer Ln, Market Drayton TF9 3AL, UK",461.0,6.25,Maer Lane,08-09-2022,Jason,Holloway,0.50,19.51,9.76,2023-06-20,2023-07-20,unpaid
+100,DY3 1YQ,"4 Maer Ln, Market Drayton TF9 3AL, UK",461.0,144.00,Maer Lane,08-09-2022,Jason,Holloway,12.00,18.69,224.28,2023-06-20,2023-07-20,unpaid
+101,DY3 1YQ,"4 Maer Ln, Market Drayton TF9 3AL, UK",461.0,18.75,Maer Lane,08-09-2022,Jason,Holloway,1.50,19.51,29.27,2023-06-20,2023-07-20,unpaid
+102,DY3 1YQ,"4 Maer Ln, Market Drayton TF9 3AL, UK",461.0,6.25,Maer Lane,10-09-2022,Jason,Holloway,0.50,19.51,9.76,2023-06-20,2023-07-20,unpaid
+103,DY3 1YQ,"4 Maer Ln, Market Drayton TF9 3AL, UK",461.0,84.50,Maer Lane,10-09-2022,Jason,Holloway,6.50,20.33,132.15,2023-06-20,2023-07-20,unpaid
+104,TF2 9UG,"93 Little Harlescott Ln, Shrewsbury SY1 3PD, UK",439.0,125.00,93 Little Harlescott Ln (Bethphage),09-09-2022,Fortune,Njekwe,10.00,19.51,195.10,2023-06-20,2023-07-20,unpaid
+105,TF2 9UG,"93 Little Harlescott Ln, Shrewsbury SY1 3PD, UK",439.0,135.00,93 Little Harlescott Ln (Bethphage),10-09-2022,Fortune,Njekwe,10.00,21.13,211.30,2023-06-20,2023-07-20,unpaid
+106,WV3 0BT,"Knowsley Dr, Bicton Heath, Shrewsbury SY3 5DH, UK",65.0,148.50,Ideal Home,11-09-2022,Oluwatobi Ololade,Sanni,11.00,21.11,232.21,2023-06-20,2023-07-20,unpaid
+107,WV3 0BT,"Knowsley Dr, Bicton Heath, Shrewsbury SY3 5DH, UK",65.0,28.00,Ideal Home,11-09-2022,Oluwatobi Ololade,Sanni,2.00,21.92,43.84,2023-06-20,2023-07-20,unpaid
+108,SY1 3XD,"93 Sutton Rd, Shrewsbury SY2 6ED, UK",427.0,156.00,93 Sutton Road (Bethphage),10-09-2022,Tayla,Walker,12.00,20.33,243.96,2023-06-20,2023-07-20,unpaid
+109,SY1 3XD,"93 Sutton Rd, Shrewsbury SY2 6ED, UK",427.0,27.00,93 Sutton Road (Bethphage),10-09-2022,Tayla,Walker,2.00,21.13,42.26,2023-06-20,2023-07-20,unpaid
+110,WV6 0PR,"2 Sampson Park, Telford, TF7 5FD",28.4,156.00,Sampson Park (Bungalow 5),10-09-2022,Kolawole,Ladeji,12.00,20.33,243.96,2023-06-20,2023-07-20,unpaid
+111,WV6 0PR,"2 Sampson Park, Telford, TF7 5FD",28.4,27.00,Sampson Park (Bungalow 5),10-09-2022,Kolawole,Ladeji,2.00,21.13,42.26,2023-06-20,2023-07-20,unpaid
+112,WV6 0PR,"2 Sampson Park, Telford, TF7 5FD",28.4,56.00,Sampson Park (Bungalow 5),11-09-2022,Kolawole,Ladeji,4.00,21.94,87.76,2023-06-20,2023-07-20,unpaid
+113,WV6 0PR,"2 Sampson Park, Telford, TF7 5FD",28.4,29.00,Sampson Park (Bungalow 5),11-09-2022,Kolawole,Ladeji,2.00,22.77,45.54,2023-06-20,2023-07-20,unpaid
+114,wv60ab,"97a London Road, Shrewsbury SY5 6QT, UK",449.0,112.50,Robin House (Bethphage),08-09-2022,Faith,Ogbebor,9.00,19.51,175.59,2023-06-20,2023-07-20,unpaid
+115,wv60ab,"97a London Road, Shrewsbury SY5 6QT, UK",449.0,112.50,Robin House (Bethphage),09-09-2022,Faith,Ogbebor,9.00,19.51,175.59,2023-06-20,2023-07-20,unpaid
+116,wv60ab,"97a London Road, Shrewsbury SY5 6QT, UK",449.0,121.50,Robin House (Bethphage),10-09-2022,Faith,Ogbebor,9.00,21.13,190.17,2023-06-20,2023-07-20,unpaid
+117,B29 7RQ,"93 Sutton Rd, Shrewsbury SY2 6ED, UK",479.0,125.00,93 Sutton Road (Bethphage),07-09-2022,Oluwatobi,Oduyemi,10.00,19.51,195.10,2023-06-20,2023-07-20,unpaid
+118,B29 7RQ,"93 Sutton Rd, Shrewsbury SY2 6ED, UK",479.0,125.00,93 Sutton Road (Bethphage),08-09-2022,Oluwatobi,Oduyemi,10.00,19.51,195.10,2023-06-20,2023-07-20,unpaid
+119,B29 7RQ,"93 Sutton Rd, Shrewsbury SY2 6ED, UK",479.0,125.00,93 Sutton Road (Bethphage),09-09-2022,Oluwatobi,Oduyemi,10.00,19.51,195.10,2023-06-20,2023-07-20,unpaid
+120,B29 7RQ,"94 Murrell Way, Shrewsbury SY2 6FN, UK",479.0,84.00,94 Murrell Way,11-09-2022,Oluwatobi,Oduyemi,6.00,21.94,131.64,2023-06-20,2023-07-20,unpaid
+121,B29 7RQ,"94 Murrell Way, Shrewsbury SY2 6FN, UK",479.0,29.00,94 Murrell Way,11-09-2022,Oluwatobi,Oduyemi,2.00,22.77,45.54,2023-06-20,2023-07-20,unpaid
+122,WV13 1ND,"Greenfields Cres, Shifnal TF11 8EF, UK",34.6,14.50,The Ryland's,05-09-2022,Oluwatoyin,Eleja,1.00,22.77,22.77,2023-06-20,2023-07-20,unpaid
+123,WV13 1ND,"Greenfields Cres, Shifnal TF11 8EF, UK",34.6,144.00,The Ryland's,05-09-2022,Oluwatoyin,Eleja,12.00,18.69,224.28,2023-06-20,2023-07-20,unpaid
+124,WV13 1ND,"Greenfields Cres, Shifnal TF11 8EF, UK",34.6,18.75,The Ryland's,05-09-2022,Oluwatoyin,Eleja,1.50,19.51,29.27,2023-06-20,2023-07-20,unpaid
+125,WV13 1ND,"Greenfields Cres, Shifnal TF11 8EF, UK",34.6,132.00,The Ryland's,06-09-2022,Oluwatoyin,Eleja,11.00,18.69,205.59,2023-06-20,2023-07-20,unpaid
+126,WV13 1ND,"Greenfields Cres, Shifnal TF11 8EF, UK",34.6,18.75,The Ryland's,06-09-2022,Oluwatoyin,Eleja,1.50,19.51,29.27,2023-06-20,2023-07-20,unpaid
+127,WV13 1ND,"Greenfields Cres, Shifnal TF11 8EF, UK",34.6,132.00,The Ryland's,07-09-2022,Oluwatoyin,Eleja,11.00,18.69,205.59,2023-06-20,2023-07-20,unpaid
+128,WV13 1ND,"Greenfields Cres, Shifnal TF11 8EF, UK",34.6,18.75,The Ryland's,07-09-2022,Oluwatoyin,Eleja,1.50,19.51,29.27,2023-06-20,2023-07-20,unpaid
+129,WV13 1ND,"Knowsley Dr, Bicton Heath, Shrewsbury SY3 5DH, UK",78.4,50.00,Ideal Home,10-09-2022,Oluwatoyin,Eleja,4.00,19.48,77.92,2023-06-20,2023-07-20,unpaid
+130,WV13 1ND,"Knowsley Dr, Bicton Heath, Shrewsbury SY3 5DH, UK",78.4,139.75,Ideal Home,10-09-2022,Oluwatoyin,Eleja,10.75,20.30,218.23,2023-06-20,2023-07-20,unpaid
+131,WV13 1ND,"Knowsley Dr, Bicton Heath, Shrewsbury SY3 5DH, UK",78.4,54.00,Ideal Home,11-09-2022,Oluwatoyin,Eleja,4.00,21.11,84.44,2023-06-20,2023-07-20,unpaid
+132,WV13 1ND,"Knowsley Dr, Bicton Heath, Shrewsbury SY3 5DH, UK",78.4,150.50,Ideal Home,11-09-2022,Oluwatoyin,Eleja,10.75,21.92,235.64,2023-06-20,2023-07-20,unpaid
+133,WV10 9PA,"12 Magnolia Dr, Overdale, Telford TF3, 5EG UK",-5.0,156.00,12 Magnolia Drive,10-09-2022,David,Nogieru,12.00,20.33,243.96,2023-06-20,2023-07-20,unpaid
+134,B70 0LD,"6 North Cl, Shrewsbury SY3 7HF, UK",77.4,19.50,North Close,10-09-2022,Joy,Sakaba,1.50,20.33,30.50,2023-06-20,2023-07-20,unpaid
+135,B70 0LD,"6 North Cl, Shrewsbury SY3 7HF, UK",77.4,47.25,North Close,10-09-2022,Joy,Sakaba,3.50,21.13,73.96,2023-06-20,2023-07-20,unpaid
+136,B70 0LD,"6 North Cl, Shrewsbury SY3 7HF, UK",77.4,71.25,North Close,10-09-2022,Joy,Sakaba,7.50,14.18,106.35,2023-06-20,2023-07-20,unpaid
+137,B70 0LD,"6 North Cl, Shrewsbury SY3 7HF, UK",77.4,13.50,North Close,11-09-2022,Joy,Sakaba,1.00,21.13,21.13,2023-06-20,2023-07-20,unpaid
+138,B70 0LD,"6 North Cl, Shrewsbury SY3 7HF, UK",77.4,112.00,North Close,11-09-2022,Joy,Sakaba,8.00,21.94,175.52,2023-06-20,2023-07-20,unpaid
+139,WV10 6RL,"Knowsley Dr, Bicton Heath, Shrewsbury SY3 5DH, UK",63.0,46.00,Ideal Home,06-09-2022,Maureen,Anulika Ifi,4.00,17.86,71.44,2023-06-20,2023-07-20,unpaid
+140,WV10 6RL,"Knowsley Dr, Bicton Heath, Shrewsbury SY3 5DH, UK",63.0,129.00,Ideal Home,06-09-2022,Maureen,Anulika Ifi,10.75,18.67,200.70,2023-06-20,2023-07-20,unpaid
+141,WV10 6RL,"Knowsley Dr, Bicton Heath, Shrewsbury SY3 5DH, UK",63.0,108.00,Ideal Home,07-09-2022,Maureen,Anulika Ifi,9.00,18.67,168.03,2023-06-20,2023-07-20,unpaid
+142,WV10 6RL,"Knowsley Dr, Bicton Heath, Shrewsbury SY3 5DH, UK",63.0,108.00,Ideal Home,08-09-2022,Maureen,Anulika Ifi,9.00,18.67,168.03,2023-06-20,2023-07-20,unpaid
+143,B70 6HY,"3-5 Court Road, Malvern, Worcestershire, WR14 3BU",70.2,318.00,Court House Care Home,05-09-2022,Carolyn,King,12.00,42.24,506.88,2023-06-20,2023-07-20,unpaid
+144,WV10 0JT,"Ruckley, Acton Burnell, Shrewsbury SY5 7HR, UK",68.0,66.00,Ruckley Home Farm  (Bethphage),06-09-2022,Mobolaji,Oredein,5.50,18.69,102.80,2023-06-20,2023-07-20,unpaid
+145,WV10 0JT,"Ruckley, Acton Burnell, Shrewsbury SY5 7HR, UK",68.0,25.00,Ruckley Home Farm  (Bethphage),06-09-2022,Mobolaji,Oredein,2.00,19.51,39.02,2023-06-20,2023-07-20,unpaid
+146,Tf1 5DW,"Sunnyside Rd, Telford TF2 0AA, UK",443.0,42.00,The Crown Apartment,06-09-2022,John Kofi,Acheampong,3.50,18.69,65.42,2023-06-20,2023-07-20,unpaid
+147,Tf1 5DW,"Sunnyside Rd, Telford TF2 0AA, UK",443.0,25.00,The Crown Apartment,06-09-2022,John Kofi,Acheampong,2.00,19.51,39.02,2023-06-20,2023-07-20,unpaid
+148,Tf1 5DW,"Glebe Rd, Bayston Hill, Shrewsbury SY3 0PZ, UK",24.4,60.00,York House,07-09-2022,John Kofi,Acheampong,5.00,18.69,93.45,2023-06-20,2023-07-20,unpaid
+149,Tf1 5DW,"Glebe Rd, Bayston Hill, Shrewsbury SY3 0PZ, UK",24.4,25.00,York House,07-09-2022,John Kofi,Acheampong,2.00,19.51,39.02,2023-06-20,2023-07-20,unpaid
+150,Tf1 5DW,"Glebe Rd, Bayston Hill, Shrewsbury SY3 0PZ, UK",24.4,144.00,York House,08-09-2022,John Kofi,Acheampong,12.00,18.69,224.28,2023-06-20,2023-07-20,unpaid
+151,Tf1 5DW,"Glebe Rd, Bayston Hill, Shrewsbury SY3 0PZ, UK",24.4,25.00,York House,08-09-2022,John Kofi,Acheampong,2.00,19.51,39.02,2023-06-20,2023-07-20,unpaid
+152,Tf1 5DW,"Glebe Rd, Bayston Hill, Shrewsbury SY3 0PZ, UK",24.4,144.00,York House,09-09-2022,John Kofi,Acheampong,12.00,18.69,224.28,2023-06-20,2023-07-20,unpaid
+153,Tf1 5DW,"Glebe Rd, Bayston Hill, Shrewsbury SY3 0PZ, UK",24.4,25.00,York House,09-09-2022,John Kofi,Acheampong,2.00,19.51,39.02,2023-06-20,2023-07-20,unpaid
+154,Tf1 5DW,"Glebe Rd, Bayston Hill, Shrewsbury SY3 0PZ, UK",24.4,65.00,York House,10-09-2022,John Kofi,Acheampong,5.00,20.33,101.65,2023-06-20,2023-07-20,unpaid
+155,Tf1 5DW,"Glebe Rd, Bayston Hill, Shrewsbury SY3 0PZ, UK",24.4,27.00,York House,10-09-2022,John Kofi,Acheampong,2.00,21.13,42.26,2023-06-20,2023-07-20,unpaid
+156,Tf1 5DW,"Sunnyside Rd, Telford TF2 0AA, UK",443.0,140.00,The Crown Apartment,11-09-2022,John Kofi,Acheampong,10.00,21.94,219.40,2023-06-20,2023-07-20,unpaid
+157,B29 6EF,"573 Birmingham Rd, Lydiate Ash, Bromsgrove B61 0HX, UK",10.0,66.00,Malvern View,05-09-2022,Rejoice,Uche,5.50,18.69,102.80,2023-06-20,2023-07-20,unpaid
+158,B29 6EF,"573 Birmingham Rd, Lydiate Ash, Bromsgrove B61 0HX, UK",10.0,12.50,Malvern View,05-09-2022,Rejoice,Uche,1.00,19.51,19.51,2023-06-20,2023-07-20,unpaid
+159,TF1 6UN,"Knowsley Dr, Bicton Heath, Shrewsbury SY3 5DH, UK",33.2,80.50,Ideal Home,07-09-2022,Elizabeth,McPhail,7.00,17.86,125.02,2023-06-20,2023-07-20,unpaid
+160,TF1 6UN,"Knowsley Dr, Bicton Heath, Shrewsbury SY3 5DH, UK",33.2,80.50,Ideal Home,08-09-2022,Elizabeth,McPhail,7.00,17.86,125.02,2023-06-20,2023-07-20,unpaid

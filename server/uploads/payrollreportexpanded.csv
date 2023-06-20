@@ -1,0 +1,203 @@
+Type,"Employee Code","Employee First Name","Employee Last Name",Position,Client,"Business Unit","Shift Date","Approved Date","Payment Ref","Payroll Id","Time From","Time To",Hours,"Pay Rate","Total Pay","Total Hours","Charge Rate","Total Charge",Status
+"14 shifts",HF95CA13,Irene,"Amadu- Alexandra",multiple,multiple,multiple,"05-09-2022 to 11-09-2022",,,---,,,107.50,multiple,"1,281.00",107.50,multiple,"1,981.48",
+shift,HF95CA13,Irene,"Amadu- Alexandra","Support Worker (Sleep In)",Livability,"York House",05-09-2022,"14-09-2022 08:30","Monday Night",---,22:00,08:00,10.00,9.50,95.00,10.00,14.18,141.80,invoiced
+shift,HF95CA13,Irene,"Amadu- Alexandra","Support Worker (Sleep In)",Livability,"York House",06-09-2022,"14-09-2022 08:30","Tuesday Night",---,22:00,08:00,10.00,9.50,95.00,10.00,14.18,141.80,invoiced
+shift,HF95CA13,Irene,"Amadu- Alexandra","Support Worker",Bethphage,"Ruckley Home Farm  (Bethphage)",06-09-2022,"14-09-2022 08:30","Tuesday Day",---,14:30,20:00,5.50,12.00,66.00,5.50,18.69,102.80,invoiced
+shift,HF95CA13,Irene,"Amadu- Alexandra","Support Worker",Bethphage,"Ruckley Home Farm  (Bethphage)",06-09-2022,"14-09-2022 08:30","Tuesday Day",---,20:00,22:00,2.00,12.50,25.00,2.00,19.51,39.02,invoiced
+shift,HF95CA13,Irene,"Amadu- Alexandra","Support Worker",Livability,"5 Athersmith Close",07-09-2022,"14-09-2022 08:30","Wednesday Day",---,08:00,16:00,8.00,12.00,96.00,8.00,18.69,149.52,invoiced
+shift,HF95CA13,Irene,"Amadu- Alexandra","Support Worker",Livability,"York House",07-09-2022,"12-09-2022 09:46","Wednesday Night",---,22:00,08:00,10.00,12.50,125.00,10.00,19.51,195.10,invoiced
+shift,HF95CA13,Irene,"Amadu- Alexandra","Support Worker",Livability,"Flat 1 - Parville House",09-09-2022,"14-09-2022 08:30","Friday Day",---,08:00,20:00,12.00,12.00,144.00,12.00,18.69,224.28,invoiced
+shift,HF95CA13,Irene,"Amadu- Alexandra","Support Worker",Livability,"Flat 1 - Parville House",09-09-2022,"14-09-2022 08:30","Friday Day",---,20:00,22:00,2.00,12.50,25.00,2.00,19.51,39.02,invoiced
+shift,HF95CA13,Irene,"Amadu- Alexandra","Support Worker (Sleep In)",Livability,"Flat 1 - Parville House",09-09-2022,"14-09-2022 08:30","Friday Night",---,22:00,08:00,10.00,9.50,95.00,10.00,14.18,141.80,invoiced
+shift,HF95CA13,Irene,"Amadu- Alexandra","Support Worker",Bethphage,"93 Sutton Road (Bethphage)",10-09-2022,"14-09-2022 08:30","Saturday Night",---,22:00,08:00,10.00,13.50,135.00,10.00,21.13,211.30,invoiced
+shift,HF95CA13,Irene,"Amadu- Alexandra","Support Worker","Swanton Care","50 Deepdale",10-09-2022,"12-09-2022 09:46","Saturday Day",---,08:00,20:00,12.00,13.00,156.00,12.00,20.33,243.96,invoiced
+shift,HF95CA13,Irene,"Amadu- Alexandra","Support Worker","Swanton Care","50 Deepdale",10-09-2022,"12-09-2022 09:46","Saturday Day",---,20:00,22:00,2.00,13.50,27.00,2.00,21.13,42.26,invoiced
+shift,HF95CA13,Irene,"Amadu- Alexandra","Support Worker","Swanton Care","50 Deepdale",11-09-2022,"14-09-2022 08:30","Sunday Day",---,08:00,20:00,12.00,14.00,168.00,12.00,21.94,263.28,invoiced
+shift,HF95CA13,Irene,"Amadu- Alexandra","Support Worker","Swanton Care","50 Deepdale",11-09-2022,"14-09-2022 08:30","Sunday Day",---,20:00,22:00,2.00,14.50,29.00,2.00,22.77,45.54,invoiced
+"8 shifts",HF95CA110,Charles,Edling,"Support Worker",multiple,multiple,"05-09-2022 to 11-09-2022",,,---,,,40.00,multiple,504.00,40.00,multiple,786.80,
+shift,HF95CA110,Charles,Edling,"Support Worker","Swanton Care","12 Magnolia Drive",05-09-2022,"12-09-2022 09:46","Monday Day",---,12:00,20:00,8.00,12.00,96.00,8.00,18.69,149.52,invoiced
+shift,HF95CA110,Charles,Edling,"Support Worker","Swanton Care","12 Magnolia Drive",06-09-2022,"12-09-2022 09:46","Tuesday Day",---,16:00,20:00,4.00,12.00,48.00,4.00,18.69,74.76,invoiced
+shift,HF95CA110,Charles,Edling,"Support Worker","Swanton Care","12 Magnolia Drive",06-09-2022,"12-09-2022 09:46","Tuesday Day",---,20:00,22:00,2.00,12.50,25.00,2.00,19.51,39.02,invoiced
+shift,HF95CA110,Charles,Edling,"Support Worker","Swanton Care","12 Magnolia Drive",07-09-2022,"12-09-2022 09:46","Wednesday Day",---,15:00,20:00,5.00,12.00,60.00,5.00,18.69,93.45,invoiced
+shift,HF95CA110,Charles,Edling,"Support Worker","Bond Care","The New Barn",09-09-2022,"12-09-2022 09:46","Friday Night",---,22:00,08:00,10.00,12.50,125.00,10.00,19.51,195.10,invoiced
+shift,HF95CA110,Charles,Edling,"Support Worker","Swanton Care","12 Magnolia Drive",10-09-2022,"12-09-2022 09:46","Saturday Day",---,11:00,16:00,5.00,13.00,65.00,5.00,20.33,101.65,invoiced
+shift,HF95CA110,Charles,Edling,"Support Worker","Swanton Care","12 Magnolia Drive",11-09-2022,"12-09-2022 09:46","Sunday Day",---,16:00,20:00,4.00,14.00,56.00,4.00,21.94,87.76,invoiced
+shift,HF95CA110,Charles,Edling,"Support Worker","Swanton Care","12 Magnolia Drive",11-09-2022,"12-09-2022 09:46","Sunday Day",---,20:00,22:00,2.00,14.50,29.00,2.00,22.77,45.54,invoiced
+"9 shifts",HF95CA115,Peter,Wansema,"Support Worker",multiple,multiple,"05-09-2022 to 11-09-2022",,,---,,,45.00,multiple,574.00,45.00,multiple,896.58,
+shift,HF95CA115,Peter,Wansema,"Support Worker","Macintyre Care","The Rowans",05-09-2022,"12-09-2022 09:46","Monday Day",---,12:00,20:00,8.00,12.00,96.00,8.00,18.69,149.52,invoiced
+shift,HF95CA115,Peter,Wansema,"Support Worker","Macintyre Care","The Rowans",05-09-2022,"12-09-2022 09:46","Monday Day",---,20:00,22:30,2.50,12.50,31.25,2.50,19.51,48.78,invoiced
+shift,HF95CA115,Peter,Wansema,"Support Worker",Livability,"York House",06-09-2022,"12-09-2022 09:46","Tuesday Night",---,22:00,08:00,10.00,12.50,125.00,10.00,19.51,195.10,invoiced
+shift,HF95CA115,Peter,Wansema,"Support Worker",Livability,"York House",08-09-2022,"12-09-2022 09:46","Thursday Day",---,15:00,20:00,5.00,12.00,60.00,5.00,18.69,93.45,invoiced
+shift,HF95CA115,Peter,Wansema,"Support Worker",Livability,"York House",08-09-2022,"12-09-2022 09:46","Thursday Day",---,20:00,22:00,2.00,12.50,25.00,2.00,19.51,39.02,invoiced
+shift,HF95CA115,Peter,Wansema,"Support Worker","Macintyre Care","The Rowans",10-09-2022,"12-09-2022 09:46","Saturday Day",---,12:00,20:00,8.00,13.00,104.00,8.00,20.33,162.64,invoiced
+shift,HF95CA115,Peter,Wansema,"Support Worker","Macintyre Care","The Rowans",10-09-2022,"12-09-2022 09:46","Saturday Day",---,20:00,22:30,2.50,13.50,33.75,2.50,21.13,52.83,invoiced
+shift,HF95CA115,Peter,Wansema,"Support Worker",Livability,"York House",11-09-2022,"12-09-2022 09:46","Sunday Day",---,15:00,20:00,5.00,14.00,70.00,5.00,21.94,109.70,invoiced
+shift,HF95CA115,Peter,Wansema,"Support Worker",Livability,"York House",11-09-2022,"12-09-2022 09:46","Sunday Day",---,20:00,22:00,2.00,14.50,29.00,2.00,22.77,45.54,invoiced
+"11 shifts",HF95CA119,Ramadhani,Malinde,HCA,"Minster Care Group","Ideal Home","05-09-2022 to 11-09-2022",,,---,,,76.00,multiple,916.00,76.00,multiple,"1,414.07",
+shift,HF95CA119,Ramadhani,Malinde,HCA,"Minster Care Group","Ideal Home",05-09-2022,"12-09-2022 09:46","Monday Day",---,16:00,20:00,4.00,11.50,46.00,4.00,17.86,71.44,invoiced
+shift,HF95CA119,Ramadhani,Malinde,HCA,"Minster Care Group","Ideal Home",05-09-2022,"12-09-2022 09:46","Monday Day",---,20:00,08:00,10.75,12.00,129.00,10.75,18.67,200.70,invoiced
+shift,HF95CA119,Ramadhani,Malinde,HCA,"Minster Care Group","Ideal Home",06-09-2022,"12-09-2022 09:46","Tuesday Day",---,16:00,20:00,4.00,11.50,46.00,4.00,17.86,71.44,invoiced
+shift,HF95CA119,Ramadhani,Malinde,HCA,"Minster Care Group","Ideal Home",06-09-2022,"12-09-2022 09:46","Tuesday Day",---,20:00,08:00,10.75,12.00,129.00,10.75,18.67,200.70,invoiced
+shift,HF95CA119,Ramadhani,Malinde,HCA,"Minster Care Group","Ideal Home",07-09-2022,"12-09-2022 09:46","Wednesday Night",---,22:00,08:00,9.00,12.00,108.00,9.00,18.67,168.03,invoiced
+shift,HF95CA119,Ramadhani,Malinde,HCA,"Minster Care Group","Ideal Home",08-09-2022,"12-09-2022 09:46","Thursday Day",---,16:00,20:00,4.00,11.50,46.00,4.00,17.86,71.44,invoiced
+shift,HF95CA119,Ramadhani,Malinde,HCA,"Minster Care Group","Ideal Home",08-09-2022,"12-09-2022 09:46","Thursday Day",---,20:00,08:00,10.75,12.00,129.00,10.75,18.67,200.70,invoiced
+shift,HF95CA119,Ramadhani,Malinde,HCA,"Minster Care Group","Ideal Home",09-09-2022,"12-09-2022 09:46","Friday Day",---,16:00,20:00,4.00,11.50,46.00,4.00,17.86,71.44,invoiced
+shift,HF95CA119,Ramadhani,Malinde,HCA,"Minster Care Group","Ideal Home",09-09-2022,"12-09-2022 09:46","Friday Day",---,20:00,08:00,10.75,12.00,129.00,10.75,18.67,200.70,invoiced
+shift,HF95CA119,Ramadhani,Malinde,HCA,"Minster Care Group","Ideal Home",10-09-2022,"12-09-2022 09:46","Saturday Day",---,14:00,20:00,6.00,13.50,81.00,6.00,19.48,116.88,invoiced
+shift,HF95CA119,Ramadhani,Malinde,HCA,"Minster Care Group","Ideal Home",10-09-2022,"12-09-2022 09:46","Saturday Day",---,20:00,22:00,2.00,13.50,27.00,2.00,20.30,40.60,invoiced
+"5 shifts",HF1CA147,Nankyer,"Micah Umaru",multiple,Bethphage,"15 Innage Gardens  (Bethphage)","05-09-2022 to 11-09-2022",,,---,,,24.00,multiple,270.00,24.00,multiple,415.77,
+shift,HF1CA147,Nankyer,"Micah Umaru","Support Worker",Bethphage,"15 Innage Gardens  (Bethphage)",08-09-2022,"14-09-2022 08:30","Thursday Day",---,16:30,20:00,3.50,12.00,42.00,3.50,18.69,65.42,invoiced
+shift,HF1CA147,Nankyer,"Micah Umaru","Support Worker",Bethphage,"15 Innage Gardens  (Bethphage)",08-09-2022,"14-09-2022 08:30","Thursday Day",---,20:00,23:00,3.00,12.50,37.50,3.00,19.51,58.53,invoiced
+shift,HF1CA147,Nankyer,"Micah Umaru","Support Worker (Sleep In)",Bethphage,"15 Innage Gardens  (Bethphage)",08-09-2022,"14-09-2022 08:30","Thursday Night",---,23:00,07:00,8.00,9.50,76.00,8.00,14.18,113.44,invoiced
+shift,HF1CA147,Nankyer,"Micah Umaru","Support Worker",Bethphage,"15 Innage Gardens  (Bethphage)",09-09-2022,"14-09-2022 08:30","Friday Day",---,07:00,08:00,1.00,12.50,12.50,1.00,19.51,19.51,invoiced
+shift,HF1CA147,Nankyer,"Micah Umaru","Support Worker",Bethphage,"15 Innage Gardens  (Bethphage)",09-09-2022,"14-09-2022 08:30","Friday Day",---,08:00,16:30,8.50,12.00,102.00,8.50,18.69,158.87,invoiced
+"1 shift",HF1CA163,Risikatu,Adebala,"Support Worker","Swanton Care","The Crown Apartment","05-09-2022 to 11-09-2022",,,---,,,6.50,13.00,84.50,6.50,20.33,132.15,
+shift,HF1CA163,Risikatu,Adebala,"Support Worker","Swanton Care","The Crown Apartment",10-09-2022,"12-09-2022 09:46","Saturday Day",---,12:00,18:30,6.50,13.00,84.50,6.50,20.33,132.15,invoiced
+"6 shifts",HF1CA173,Omotunde,Adebola,multiple,"Macintyre Care","The Ryland's","05-09-2022 to 11-09-2022",,,---,,,37.50,multiple,430.25,37.50,multiple,664.60,
+shift,HF1CA173,Omotunde,Adebola,"Support Worker","Macintyre Care","The Ryland's",08-09-2022,"12-09-2022 09:46","Thursday Day",---,09:00,20:00,11.00,12.00,132.00,11.00,18.69,205.59,invoiced
+shift,HF1CA173,Omotunde,Adebola,"Support Worker","Macintyre Care","The Ryland's",08-09-2022,"12-09-2022 09:46","Thursday Day",---,20:00,21:30,1.50,12.50,18.75,1.50,19.51,29.27,invoiced
+shift,HF1CA173,Omotunde,Adebola,"Support Worker","Macintyre Care","The Ryland's",09-09-2022,"12-09-2022 09:46","Friday Day",---,09:00,20:00,11.00,12.00,132.00,11.00,18.69,205.59,invoiced
+shift,HF1CA173,Omotunde,Adebola,"Support Worker","Macintyre Care","The Ryland's",09-09-2022,"12-09-2022 09:46","Friday Day",---,20:00,22:30,2.50,12.50,31.25,2.50,19.51,48.78,invoiced
+shift,HF1CA173,Omotunde,Adebola,"Support Worker (Sleep In)","Macintyre Care","The Ryland's",09-09-2022,"12-09-2022 09:46","Friday Night",---,22:30,08:00,9.50,9.50,90.25,9.50,14.18,134.71,invoiced
+shift,HF1CA173,Omotunde,Adebola,"Support Worker","Macintyre Care","The Ryland's",10-09-2022,"12-09-2022 09:46","Saturday Day",---,08:00,10:00,2.00,13.00,26.00,2.00,20.33,40.66,invoiced
+"4 shifts",HF1CA187,Erhuvwu,Onoetiyi,"Support Worker",Livability,"York House","05-09-2022 to 11-09-2022",,,---,,,40.00,multiple,530.00,40.00,multiple,829.20,
+shift,HF1CA187,Erhuvwu,Onoetiyi,"Support Worker",Livability,"York House",05-09-2022,"12-09-2022 09:46","Monday Night",---,22:00,08:00,10.00,12.50,125.00,10.00,19.51,195.10,invoiced
+shift,HF1CA187,Erhuvwu,Onoetiyi,"Support Worker",Livability,"York House",08-09-2022,"12-09-2022 09:46","Thursday Night",---,22:00,08:00,10.00,12.50,125.00,10.00,19.51,195.10,invoiced
+shift,HF1CA187,Erhuvwu,Onoetiyi,"Support Worker",Livability,"York House",10-09-2022,"12-09-2022 09:46","Saturday Night",---,22:00,08:00,10.00,13.50,135.00,10.00,21.13,211.30,invoiced
+shift,HF1CA187,Erhuvwu,Onoetiyi,"Support Worker",Livability,"York House",11-09-2022,"12-09-2022 09:46","Sunday Night",---,22:00,08:00,10.00,14.50,145.00,10.00,22.77,227.70,invoiced
+"4 shifts",HF1CA216,Ronnie,Nsubuga,"Support Worker",Bethphage,multiple,"05-09-2022 to 11-09-2022",,,---,,,40.00,multiple,520.00,40.00,multiple,813.00,
+shift,HF1CA216,Ronnie,Nsubuga,"Support Worker",Bethphage,"93 Sutton Road (Bethphage)",06-09-2022,"12-09-2022 09:46","Tuesday Night",---,22:00,08:00,10.00,12.50,125.00,10.00,19.51,195.10,invoiced
+shift,HF1CA216,Ronnie,Nsubuga,"Support Worker",Bethphage,"93 Sutton Road (Bethphage)",07-09-2022,"12-09-2022 09:46","Wednesday Night",---,22:00,08:00,10.00,12.50,125.00,10.00,19.51,195.10,invoiced
+shift,HF1CA216,Ronnie,Nsubuga,"Support Worker",Bethphage,"93 Little Harlescott Ln (Bethphage)",08-09-2022,"12-09-2022 09:46","Thursday Night",---,22:00,08:00,10.00,12.50,125.00,10.00,19.51,195.10,invoiced
+shift,HF1CA216,Ronnie,Nsubuga,"Support Worker",Bethphage,"93 Sutton Road (Bethphage)",11-09-2022,"12-09-2022 09:46","Sunday Night",---,22:00,08:00,10.00,14.50,145.00,10.00,22.77,227.70,invoiced
+"1 shift",HF1CA219,Adejoke,Bello,"Support Worker","Accomplish Group","Malvern View","05-09-2022 to 11-09-2022",,,---,,,10.00,12.50,125.00,10.00,19.51,195.10,
+shift,HF1CA219,Adejoke,Bello,"Support Worker","Accomplish Group","Malvern View",09-09-2022,"12-09-2022 09:46","Friday Night",---,21:00,07:00,10.00,12.50,125.00,10.00,19.51,195.10,invoiced
+"2 shifts",HF1CA228,Victor,Imafidon,"Support Worker",multiple,multiple,"05-09-2022 to 11-09-2022",,,---,,,15.00,multiple,188.00,15.00,multiple,293.47,
+shift,HF1CA228,Victor,Imafidon,"Support Worker",Livability,"York House",09-09-2022,"12-09-2022 09:46","Friday Day",---,08:00,15:00,7.00,12.00,84.00,7.00,18.69,130.83,invoiced
+shift,HF1CA228,Victor,Imafidon,"Support Worker","Swanton Care","12 Magnolia Drive",10-09-2022,"12-09-2022 09:46","Saturday Day",---,08:00,16:00,8.00,13.00,104.00,8.00,20.33,162.64,invoiced
+"2 shifts",HF1CA255,Harjot,Kaur,"Support Worker","Macintyre Care","35 Cedar Close","05-09-2022 to 11-09-2022",,,---,,,11.00,12.00,132.00,11.00,18.69,205.60,
+shift,HF1CA255,Harjot,Kaur,"Support Worker","Macintyre Care","35 Cedar Close",06-09-2022,"12-09-2022 09:46","Tuesday Day",---,09:00,14:30,5.50,12.00,66.00,5.50,18.69,102.80,invoiced
+shift,HF1CA255,Harjot,Kaur,"Support Worker","Macintyre Care","35 Cedar Close",09-09-2022,"12-09-2022 09:46","Friday Day",---,12:30,18:00,5.50,12.00,66.00,5.50,18.69,102.80,invoiced
+"9 shifts",HF1CA264,Loveth,Wuam,multiple,multiple,multiple,"05-09-2022 to 11-09-2022",,,---,,,59.33,multiple,733.08,59.33,multiple,"1,143.17",
+shift,HF1CA264,Loveth,Wuam,"Support Worker",Bethphage,"Ruckley Home Farm  (Bethphage)",05-09-2022,"14-09-2022 08:30","Monday Day",---,08:45,20:00,11.25,12.00,135.00,11.25,18.69,210.26,invoiced
+shift,HF1CA264,Loveth,Wuam,"Support Worker",Bethphage,"Ruckley Home Farm  (Bethphage)",05-09-2022,"14-09-2022 08:30","Monday Day",---,20:00,22:00,2.00,12.50,25.00,2.00,19.51,39.02,invoiced
+shift,HF1CA264,Loveth,Wuam,"Support Worker",Bethphage,"Ruckley Home Farm  (Bethphage)",06-09-2022,"14-09-2022 08:30","Tuesday Day",---,08:00,20:00,12.00,12.00,144.00,12.00,18.69,224.28,invoiced
+shift,HF1CA264,Loveth,Wuam,"Support Worker",Bethphage,"Ruckley Home Farm  (Bethphage)",06-09-2022,"14-09-2022 08:30","Tuesday Day",---,20:00,22:00,2.00,12.50,25.00,2.00,19.51,39.02,invoiced
+shift,HF1CA264,Loveth,Wuam,"Support Worker",Bethphage,"Ruckley Home Farm  (Bethphage)",07-09-2022,"14-09-2022 08:30","Wednesday Day",---,08:00,20:00,12.00,12.00,144.00,12.00,18.69,224.28,invoiced
+shift,HF1CA264,Loveth,Wuam,"Support Worker",Bethphage,"Ruckley Home Farm  (Bethphage)",07-09-2022,"14-09-2022 08:30","Wednesday Day",---,20:00,22:00,2.00,12.50,25.00,2.00,19.51,39.02,invoiced
+shift,HF1CA264,Loveth,Wuam,"Support Worker",Livability,"York House",09-09-2022,"12-09-2022 09:46","Friday Night",---,22:00,08:00,10.00,12.50,125.00,10.00,19.51,195.10,invoiced
+shift,HF1CA264,Loveth,Wuam,HCA,"Minster Care Group","Ideal Home",11-09-2022,"14-09-2022 08:30","Sunday Night",---,13:40,20:00,6.08,13.50,82.08,6.08,21.11,128.35,invoiced
+shift,HF1CA264,Loveth,Wuam,HCA,"Minster Care Group","Ideal Home",11-09-2022,"14-09-2022 08:30","Sunday Night",---,20:00,22:00,2.00,14.00,28.00,2.00,21.92,43.84,invoiced
+"9 shifts",HF1CA272,Oluwakayode,Ojobo,"Support Worker",multiple,multiple,"05-09-2022 to 11-09-2022",,,---,,,44.00,multiple,565.00,44.00,multiple,882.81,
+shift,HF1CA272,Oluwakayode,Ojobo,"Support Worker",Bethphage,"93 Little Harlescott Ln (Bethphage)",06-09-2022,"14-09-2022 08:30","Tuesday Night",---,22:00,08:00,10.00,12.50,125.00,10.00,19.51,195.10,invoiced
+shift,HF1CA272,Oluwakayode,Ojobo,"Support Worker","Swanton Care","The Crown Apartment",08-09-2022,"12-09-2022 09:46","Thursday Day",---,16:00,20:00,4.00,12.00,48.00,4.00,18.69,74.76,invoiced
+shift,HF1CA272,Oluwakayode,Ojobo,"Support Worker","Swanton Care","The Crown Apartment",08-09-2022,"12-09-2022 09:46","Thursday Day",---,20:00,22:00,2.00,12.50,25.00,2.00,19.51,39.02,invoiced
+shift,HF1CA272,Oluwakayode,Ojobo,"Support Worker",Bethphage,"93 Little Harlescott Ln (Bethphage)",09-09-2022,"14-09-2022 08:30","Friday Day",---,15:00,20:00,5.00,12.00,60.00,5.00,18.69,93.45,invoiced
+shift,HF1CA272,Oluwakayode,Ojobo,"Support Worker",Bethphage,"93 Little Harlescott Ln (Bethphage)",09-09-2022,"14-09-2022 08:30","Friday Day",---,20:00,22:00,2.00,12.50,25.00,2.00,19.51,39.02,invoiced
+shift,HF1CA272,Oluwakayode,Ojobo,"Support Worker",Bethphage,"93 Little Harlescott Ln (Bethphage)",10-09-2022,"14-09-2022 08:30","Saturday Day",---,08:00,20:00,12.00,13.00,156.00,12.00,20.33,243.96,invoiced
+shift,HF1CA272,Oluwakayode,Ojobo,"Support Worker",Bethphage,"93 Little Harlescott Ln (Bethphage)",10-09-2022,"14-09-2022 08:30","Saturday Day",---,20:00,22:00,2.00,13.50,27.00,2.00,21.13,42.26,invoiced
+shift,HF1CA272,Oluwakayode,Ojobo,"Support Worker","Swanton Care","The Crown Apartment",11-09-2022,"12-09-2022 09:46","Sunday Day",---,15:00,20:00,5.00,14.00,70.00,5.00,21.94,109.70,invoiced
+shift,HF1CA272,Oluwakayode,Ojobo,"Support Worker","Swanton Care","The Crown Apartment",11-09-2022,"12-09-2022 09:46","Sunday Day",---,20:00,22:00,2.00,14.50,29.00,2.00,22.77,45.54,invoiced
+"3 shifts",HF1CA282,David,Jayeoba,"Support Worker","Swanton Care","The Crown Apartment","05-09-2022 to 11-09-2022",,,---,,,17.50,multiple,237.50,17.50,multiple,371.90,
+shift,HF1CA282,David,Jayeoba,"Support Worker","Swanton Care","The Crown Apartment",10-09-2022,"12-09-2022 09:46","Saturday Day",---,08:00,16:00,8.00,13.00,104.00,8.00,20.33,162.64,invoiced
+shift,HF1CA282,David,Jayeoba,"Support Worker","Swanton Care","The Crown Apartment",11-09-2022,"12-09-2022 09:46","Sunday Day",---,11:30,20:00,8.50,14.00,119.00,8.50,21.94,186.49,invoiced
+shift,HF1CA282,David,Jayeoba,"Support Worker","Swanton Care","The Crown Apartment",11-09-2022,"12-09-2022 09:46","Sunday Day",---,20:00,21:00,1.00,14.50,14.50,1.00,22.77,22.77,invoiced
+"2 shifts",HF1CA291,Sophia,Osague,"Support Worker","Accomplish Group",Glanmore,"05-09-2022 to 11-09-2022",,,---,,,12.50,multiple,175.50,12.50,multiple,275.08,
+shift,HF1CA291,Sophia,Osague,"Support Worker","Accomplish Group",Glanmore,11-09-2022,"12-09-2022 09:46","Sunday Day",---,08:30,20:00,11.50,14.00,161.00,11.50,21.94,252.31,invoiced
+shift,HF1CA291,Sophia,Osague,"Support Worker","Accomplish Group",Glanmore,11-09-2022,"12-09-2022 09:46","Sunday Day",---,20:00,21:00,1.00,14.50,14.50,1.00,22.77,22.77,invoiced
+"12 shifts",HF1CA292,Aisha,Adetomiwa,"Support Worker","Accomplish Group",Glanmore,"05-09-2022 to 11-09-2022",,,---,,,75.00,multiple,915.50,75.00,multiple,"1,427.18",
+shift,HF1CA292,Aisha,Adetomiwa,"Support Worker","Accomplish Group",Glanmore,05-09-2022,"12-09-2022 09:46","Monday Day",---,08:30,20:00,11.50,12.00,138.00,11.50,18.69,214.94,invoiced
+shift,HF1CA292,Aisha,Adetomiwa,"Support Worker","Accomplish Group",Glanmore,05-09-2022,"12-09-2022 09:46","Monday Day",---,20:00,21:00,1.00,12.50,12.50,1.00,19.51,19.51,invoiced
+shift,HF1CA292,Aisha,Adetomiwa,"Support Worker","Accomplish Group",Glanmore,06-09-2022,"14-09-2022 08:30","Tuesday Day",---,08:30,20:00,11.50,12.00,138.00,11.50,18.69,214.94,invoiced
+shift,HF1CA292,Aisha,Adetomiwa,"Support Worker","Accomplish Group",Glanmore,06-09-2022,"14-09-2022 08:30","Tuesday Day",---,20:00,21:00,1.00,12.50,12.50,1.00,19.51,19.51,invoiced
+shift,HF1CA292,Aisha,Adetomiwa,"Support Worker","Accomplish Group",Glanmore,07-09-2022,"14-09-2022 08:30","Wednesday Day",---,08:30,20:00,11.50,12.00,138.00,11.50,18.69,214.94,invoiced
+shift,HF1CA292,Aisha,Adetomiwa,"Support Worker","Accomplish Group",Glanmore,07-09-2022,"14-09-2022 08:30","Wednesday Day",---,20:00,21:00,1.00,12.50,12.50,1.00,19.51,19.51,invoiced
+shift,HF1CA292,Aisha,Adetomiwa,"Support Worker","Accomplish Group",Glanmore,08-09-2022,"14-09-2022 08:30","Thursday Day",---,08:30,20:00,11.50,12.00,138.00,11.50,18.69,214.94,invoiced
+shift,HF1CA292,Aisha,Adetomiwa,"Support Worker","Accomplish Group",Glanmore,08-09-2022,"14-09-2022 08:30","Thursday Day",---,20:00,21:00,1.00,12.50,12.50,1.00,19.51,19.51,invoiced
+shift,HF1CA292,Aisha,Adetomiwa,"Support Worker","Accomplish Group",Glanmore,09-09-2022,"14-09-2022 08:30","Friday Day",---,08:30,20:00,11.50,12.00,138.00,11.50,18.69,214.94,invoiced
+shift,HF1CA292,Aisha,Adetomiwa,"Support Worker","Accomplish Group",Glanmore,09-09-2022,"14-09-2022 08:30","Friday Day",---,20:00,21:00,1.00,12.50,12.50,1.00,19.51,19.51,invoiced
+shift,HF1CA292,Aisha,Adetomiwa,"Support Worker","Accomplish Group",Glanmore,10-09-2022,"14-09-2022 08:30","Saturday Day",---,08:30,20:00,11.50,13.00,149.50,11.50,20.33,233.80,invoiced
+shift,HF1CA292,Aisha,Adetomiwa,"Support Worker","Accomplish Group",Glanmore,10-09-2022,"14-09-2022 08:30","Saturday Day",---,20:00,21:00,1.00,13.50,13.50,1.00,21.13,21.13,invoiced
+"8 shifts",HF1CA303,Jason,Holloway,"Support Worker","Trident Group","Maer Lane","05-09-2022 to 11-09-2022",,,---,,,35.00,multiple,428.75,35.00,multiple,668.53,
+shift,HF1CA303,Jason,Holloway,"Support Worker","Trident Group","Maer Lane",06-09-2022,"12-09-2022 09:46","Tuesday Day",---,07:30,08:00,0.50,12.50,6.25,0.50,19.51,9.76,invoiced
+shift,HF1CA303,Jason,Holloway,"Support Worker","Trident Group","Maer Lane",06-09-2022,"12-09-2022 09:46","Tuesday Day",---,08:00,20:00,12.00,12.00,144.00,12.00,18.69,224.28,invoiced
+shift,HF1CA303,Jason,Holloway,"Support Worker","Trident Group","Maer Lane",06-09-2022,"12-09-2022 09:46","Tuesday Day",---,20:00,21:30,1.50,12.50,18.75,1.50,19.51,29.27,invoiced
+shift,HF1CA303,Jason,Holloway,"Support Worker","Trident Group","Maer Lane",08-09-2022,"12-09-2022 09:46","Thursday Day",---,07:30,08:00,0.50,12.50,6.25,0.50,19.51,9.76,invoiced
+shift,HF1CA303,Jason,Holloway,"Support Worker","Trident Group","Maer Lane",08-09-2022,"12-09-2022 09:46","Thursday Day",---,08:00,20:00,12.00,12.00,144.00,12.00,18.69,224.28,invoiced
+shift,HF1CA303,Jason,Holloway,"Support Worker","Trident Group","Maer Lane",08-09-2022,"12-09-2022 09:46","Thursday Day",---,20:00,21:30,1.50,12.50,18.75,1.50,19.51,29.27,invoiced
+shift,HF1CA303,Jason,Holloway,"Support Worker","Trident Group","Maer Lane",10-09-2022,"12-09-2022 09:46","Saturday Day",---,07:30,08:00,0.50,12.50,6.25,0.50,19.51,9.76,invoiced
+shift,HF1CA303,Jason,Holloway,"Support Worker","Trident Group","Maer Lane",10-09-2022,"12-09-2022 09:46","Saturday Day",---,08:00,14:30,6.50,13.00,84.50,6.50,20.33,132.15,invoiced
+"2 shifts",HF1CA345,Fortune,Njekwe,"Support Worker",Bethphage,"93 Little Harlescott Ln (Bethphage)","05-09-2022 to 11-09-2022",,,---,,,20.00,multiple,260.00,20.00,multiple,406.40,
+shift,HF1CA345,Fortune,Njekwe,"Support Worker",Bethphage,"93 Little Harlescott Ln (Bethphage)",09-09-2022,"14-09-2022 08:30","Friday Night",---,22:00,08:00,10.00,12.50,125.00,10.00,19.51,195.10,invoiced
+shift,HF1CA345,Fortune,Njekwe,"Support Worker",Bethphage,"93 Little Harlescott Ln (Bethphage)",10-09-2022,"14-09-2022 08:30","Saturday Night",---,22:00,08:00,10.00,13.50,135.00,10.00,21.13,211.30,invoiced
+"2 shifts",HF1CA346,"Oluwatobi Ololade",Sanni,HCA,"Minster Care Group","Ideal Home","05-09-2022 to 11-09-2022",,,---,,,13.00,multiple,176.50,13.00,multiple,276.05,
+shift,HF1CA346,"Oluwatobi Ololade",Sanni,HCA,"Minster Care Group","Ideal Home",11-09-2022,"14-09-2022 08:30","Sunday Day",---,08:00,20:00,11.00,13.50,148.50,11.00,21.11,232.21,invoiced
+shift,HF1CA346,"Oluwatobi Ololade",Sanni,HCA,"Minster Care Group","Ideal Home",11-09-2022,"14-09-2022 08:30","Sunday Day",---,20:00,22:00,2.00,14.00,28.00,2.00,21.92,43.84,invoiced
+"2 shifts",HF1CA350,Tayla,Walker,"Support Worker",Bethphage,"93 Sutton Road (Bethphage)","05-09-2022 to 11-09-2022",,,---,,,14.00,multiple,183.00,14.00,multiple,286.22,
+shift,HF1CA350,Tayla,Walker,"Support Worker",Bethphage,"93 Sutton Road (Bethphage)",10-09-2022,"12-09-2022 09:46","Saturday Day",---,08:00,20:00,12.00,13.00,156.00,12.00,20.33,243.96,invoiced
+shift,HF1CA350,Tayla,Walker,"Support Worker",Bethphage,"93 Sutton Road (Bethphage)",10-09-2022,"12-09-2022 09:46","Saturday Day",---,20:00,22:00,2.00,13.50,27.00,2.00,21.13,42.26,invoiced
+"4 shifts",HF1CA351,Kolawole,Ladeji,"Support Worker","Swanton Care","Sampson Park (Bungalow 5)","05-09-2022 to 11-09-2022",,,---,,,20.00,multiple,268.00,20.00,multiple,419.52,
+shift,HF1CA351,Kolawole,Ladeji,"Support Worker","Swanton Care","Sampson Park (Bungalow 5)",10-09-2022,"12-09-2022 09:46","Saturday Day",---,08:00,20:00,12.00,13.00,156.00,12.00,20.33,243.96,invoiced
+shift,HF1CA351,Kolawole,Ladeji,"Support Worker","Swanton Care","Sampson Park (Bungalow 5)",10-09-2022,"12-09-2022 09:46","Saturday Day",---,20:00,22:00,2.00,13.50,27.00,2.00,21.13,42.26,invoiced
+shift,HF1CA351,Kolawole,Ladeji,"Support Worker","Swanton Care","Sampson Park (Bungalow 5)",11-09-2022,"12-09-2022 09:46","Sunday Day",---,16:00,20:00,4.00,14.00,56.00,4.00,21.94,87.76,invoiced
+shift,HF1CA351,Kolawole,Ladeji,"Support Worker","Swanton Care","Sampson Park (Bungalow 5)",11-09-2022,"12-09-2022 09:46","Sunday Day",---,20:00,22:00,2.00,14.50,29.00,2.00,22.77,45.54,invoiced
+"3 shifts",HF1CA365,Faith,Ogbebor,"Support Worker",Bethphage,"Robin House (Bethphage)","05-09-2022 to 11-09-2022",,,---,,,27.00,multiple,346.50,27.00,multiple,541.35,
+shift,HF1CA365,Faith,Ogbebor,"Support Worker",Bethphage,"Robin House (Bethphage)",08-09-2022,"14-09-2022 08:30","Thursday Night",---,22:00,07:00,9.00,12.50,112.50,9.00,19.51,175.59,invoiced
+shift,HF1CA365,Faith,Ogbebor,"Support Worker",Bethphage,"Robin House (Bethphage)",09-09-2022,"14-09-2022 08:30","Friday Night",---,22:00,07:00,9.00,12.50,112.50,9.00,19.51,175.59,invoiced
+shift,HF1CA365,Faith,Ogbebor,"Support Worker",Bethphage,"Robin House (Bethphage)",10-09-2022,"14-09-2022 08:30","Saturday Night",---,22:00,07:00,9.00,13.50,121.50,9.00,21.13,190.17,invoiced
+"5 shifts",HF1CA391,Oluwatobi,Oduyemi,"Support Worker",multiple,multiple,"05-09-2022 to 11-09-2022",,,---,,,38.00,multiple,488.00,38.00,multiple,762.48,
+shift,HF1CA391,Oluwatobi,Oduyemi,"Support Worker",Bethphage,"93 Sutton Road (Bethphage)",07-09-2022,"14-09-2022 08:30","Wednesday Night",---,22:00,08:00,10.00,12.50,125.00,10.00,19.51,195.10,invoiced
+shift,HF1CA391,Oluwatobi,Oduyemi,"Support Worker",Bethphage,"93 Sutton Road (Bethphage)",08-09-2022,"12-09-2022 09:46","Thursday Night",---,22:00,08:00,10.00,12.50,125.00,10.00,19.51,195.10,invoiced
+shift,HF1CA391,Oluwatobi,Oduyemi,"Support Worker",Bethphage,"93 Sutton Road (Bethphage)",09-09-2022,"14-09-2022 08:30","Friday Night",---,22:00,08:00,10.00,12.50,125.00,10.00,19.51,195.10,invoiced
+shift,HF1CA391,Oluwatobi,Oduyemi,"Support Worker","Macintyre Care","94 Murrell Way",11-09-2022,"12-09-2022 09:46","Sunday Day",---,14:00,20:00,6.00,14.00,84.00,6.00,21.94,131.64,invoiced
+shift,HF1CA391,Oluwatobi,Oduyemi,"Support Worker","Macintyre Care","94 Murrell Way",11-09-2022,"12-09-2022 09:46","Sunday Day",---,20:00,22:00,2.00,14.50,29.00,2.00,22.77,45.54,invoiced
+"11 shifts",HF1CA402,Oluwatoyin,Eleja,multiple,multiple,multiple,"05-09-2022 to 11-09-2022",,,---,,,69.00,multiple,873.00,69.00,multiple,"1,362.27",
+shift,HF1CA402,Oluwatoyin,Eleja,"Support Worker","Macintyre Care","The Ryland's",05-09-2022,"12-09-2022 09:46","Monday Day",---,07:00,08:00,1.00,14.50,14.50,1.00,22.77,22.77,invoiced
+shift,HF1CA402,Oluwatoyin,Eleja,"Support Worker","Macintyre Care","The Ryland's",05-09-2022,"12-09-2022 09:46","Monday Day",---,08:00,20:00,12.00,12.00,144.00,12.00,18.69,224.28,invoiced
+shift,HF1CA402,Oluwatoyin,Eleja,"Support Worker","Macintyre Care","The Ryland's",05-09-2022,"12-09-2022 09:46","Monday Day",---,20:00,21:30,1.50,12.50,18.75,1.50,19.51,29.27,invoiced
+shift,HF1CA402,Oluwatoyin,Eleja,"Support Worker","Macintyre Care","The Ryland's",06-09-2022,"12-09-2022 09:46","Tuesday Day",---,09:00,20:00,11.00,12.00,132.00,11.00,18.69,205.59,invoiced
+shift,HF1CA402,Oluwatoyin,Eleja,"Support Worker","Macintyre Care","The Ryland's",06-09-2022,"12-09-2022 09:46","Tuesday Day",---,20:00,21:30,1.50,12.50,18.75,1.50,19.51,29.27,invoiced
+shift,HF1CA402,Oluwatoyin,Eleja,"Support Worker","Macintyre Care","The Ryland's",07-09-2022,"12-09-2022 09:46","Wednesday Day",---,09:00,20:00,11.00,12.00,132.00,11.00,18.69,205.59,invoiced
+shift,HF1CA402,Oluwatoyin,Eleja,"Support Worker","Macintyre Care","The Ryland's",07-09-2022,"12-09-2022 09:46","Wednesday Day",---,20:00,21:30,1.50,12.50,18.75,1.50,19.51,29.27,invoiced
+shift,HF1CA402,Oluwatoyin,Eleja,HCA,"Minster Care Group","Ideal Home",10-09-2022,"12-09-2022 09:46","Saturday Night",---,16:00,20:00,4.00,12.50,50.00,4.00,19.48,77.92,invoiced
+shift,HF1CA402,Oluwatoyin,Eleja,HCA,"Minster Care Group","Ideal Home",10-09-2022,"12-09-2022 09:46","Saturday Night",---,20:00,08:00,10.75,13.00,139.75,10.75,20.30,218.23,invoiced
+shift,HF1CA402,Oluwatoyin,Eleja,HCA,"Minster Care Group","Ideal Home",11-09-2022,"12-09-2022 09:46","Sunday Day",---,16:00,20:00,4.00,13.50,54.00,4.00,21.11,84.44,invoiced
+shift,HF1CA402,Oluwatoyin,Eleja,HCA,"Minster Care Group","Ideal Home",11-09-2022,"12-09-2022 09:46","Sunday Day",---,20:00,08:00,10.75,14.00,150.50,10.75,21.92,235.64,invoiced
+"1 shift",HF1CA406,David,Nogieru,"Support Worker","Swanton Care","12 Magnolia Drive","05-09-2022 to 11-09-2022",,,---,,,12.00,13.00,156.00,12.00,20.33,243.96,
+shift,HF1CA406,David,Nogieru,"Support Worker","Swanton Care","12 Magnolia Drive",10-09-2022,"12-09-2022 09:46","Saturday Day",---,08:00,20:00,12.00,13.00,156.00,12.00,20.33,243.96,invoiced
+"5 shifts",HF1CA408,Joy,Sakaba,multiple,"Macintyre Care","North Close","05-09-2022 to 11-09-2022",,,---,,,21.50,multiple,263.50,21.50,multiple,407.46,
+shift,HF1CA408,Joy,Sakaba,"Support Worker","Macintyre Care","North Close",10-09-2022,"12-09-2022 09:46","Saturday Day",---,18:30,20:00,1.50,13.00,19.50,1.50,20.33,30.50,invoiced
+shift,HF1CA408,Joy,Sakaba,"Support Worker","Macintyre Care","North Close",10-09-2022,"12-09-2022 09:46","Saturday Day",---,20:00,23:30,3.50,13.50,47.25,3.50,21.13,73.96,invoiced
+shift,HF1CA408,Joy,Sakaba,"Support Worker (Sleep In)","Macintyre Care","North Close",10-09-2022,"12-09-2022 09:46","Saturday Night",---,23:30,07:00,7.50,9.50,71.25,7.50,14.18,106.35,invoiced
+shift,HF1CA408,Joy,Sakaba,"Support Worker","Macintyre Care","North Close",11-09-2022,"12-09-2022 09:46","Sunday Day",---,07:00,08:00,1.00,13.50,13.50,1.00,21.13,21.13,invoiced
+shift,HF1CA408,Joy,Sakaba,"Support Worker","Macintyre Care","North Close",11-09-2022,"12-09-2022 09:46","Sunday Day",---,08:00,16:00,8.00,14.00,112.00,8.00,21.94,175.52,invoiced
+"4 shifts",HF1CA410,Maureen,"Anulika Ifi",HCA,"Minster Care Group","Ideal Home","05-09-2022 to 11-09-2022",,,---,,,32.75,multiple,391.00,32.75,multiple,608.20,
+shift,HF1CA410,Maureen,"Anulika Ifi",HCA,"Minster Care Group","Ideal Home",06-09-2022,"12-09-2022 09:46","Tuesday Night",---,16:00,20:00,4.00,11.50,46.00,4.00,17.86,71.44,invoiced
+shift,HF1CA410,Maureen,"Anulika Ifi",HCA,"Minster Care Group","Ideal Home",06-09-2022,"12-09-2022 09:46","Tuesday Night",---,20:00,08:00,10.75,12.00,129.00,10.75,18.67,200.70,invoiced
+shift,HF1CA410,Maureen,"Anulika Ifi",HCA,"Minster Care Group","Ideal Home",07-09-2022,"12-09-2022 09:46","Wednesday Night",---,22:00,08:00,9.00,12.00,108.00,9.00,18.67,168.03,invoiced
+shift,HF1CA410,Maureen,"Anulika Ifi",HCA,"Minster Care Group","Ideal Home",08-09-2022,"12-09-2022 09:46","Thursday Night",---,22:00,08:00,9.00,12.00,108.00,9.00,18.67,168.03,invoiced
+"1 shift",HF1CA423,Carolyn,King,RGN,"SUPERIOR CARE (MIDLANDS) LIMITED","Court House Care Home","05-09-2022 to 11-09-2022",,,---,,,12.00,26.50,318.00,12.00,42.24,506.88,
+shift,HF1CA423,Carolyn,King,RGN,"SUPERIOR CARE (MIDLANDS) LIMITED","Court House Care Home",05-09-2022,"12-09-2022 09:46","Monday Night",---,20:00,08:00,12.00,26.50,318.00,12.00,42.24,506.88,invoiced
+"3 shifts",HF1CA428,Mobolaji,Oredein,multiple,Bethphage,"Ruckley Home Farm  (Bethphage)","05-09-2022 to 11-09-2022",,,---,,,7.50,multiple,91.00,78.70,multiple,170.30,
+shift,HF1CA428,Mobolaji,Oredein,"Support Worker",Bethphage,"Ruckley Home Farm  (Bethphage)",06-09-2022,"14-09-2022 08:30","Tuesday Day",---,14:30,20:00,5.50,12.00,66.00,5.50,18.69,102.80,invoiced
+shift,HF1CA428,Mobolaji,Oredein,"Support Worker",Bethphage,"Ruckley Home Farm  (Bethphage)",06-09-2022,"14-09-2022 08:30","Tuesday Day",---,20:00,22:00,2.00,12.50,25.00,2.00,19.51,39.02,invoiced
+shift,HF1CA428,Mobolaji,Oredein,Mileage,,,06-09-2022,,Tuesday,,,,0,0,0,71.20,0.40,28.48,
+"11 shifts",HF1CA433,"John Kofi",Acheampong,"Support Worker",multiple,multiple,"05-09-2022 to 11-09-2022",,,---,,,57.50,multiple,722.00,57.50,multiple,"1,126.82",
+shift,HF1CA433,"John Kofi",Acheampong,"Support Worker","Swanton Care","The Crown Apartment",06-09-2022,"12-09-2022 09:46","Tuesday Day",---,16:30,20:00,3.50,12.00,42.00,3.50,18.69,65.42,invoiced
+shift,HF1CA433,"John Kofi",Acheampong,"Support Worker","Swanton Care","The Crown Apartment",06-09-2022,"12-09-2022 09:46","Tuesday Day",---,20:00,22:00,2.00,12.50,25.00,2.00,19.51,39.02,invoiced
+shift,HF1CA433,"John Kofi",Acheampong,"Support Worker",Livability,"York House",07-09-2022,"12-09-2022 09:46","Wednesday Day",---,15:00,20:00,5.00,12.00,60.00,5.00,18.69,93.45,invoiced
+shift,HF1CA433,"John Kofi",Acheampong,"Support Worker",Livability,"York House",07-09-2022,"12-09-2022 09:46","Wednesday Day",---,20:00,22:00,2.00,12.50,25.00,2.00,19.51,39.02,invoiced
+shift,HF1CA433,"John Kofi",Acheampong,"Support Worker",Livability,"York House",08-09-2022,"12-09-2022 09:46","Thursday Day",---,08:00,20:00,12.00,12.00,144.00,12.00,18.69,224.28,invoiced
+shift,HF1CA433,"John Kofi",Acheampong,"Support Worker",Livability,"York House",08-09-2022,"12-09-2022 09:46","Thursday Day",---,20:00,22:00,2.00,12.50,25.00,2.00,19.51,39.02,invoiced
+shift,HF1CA433,"John Kofi",Acheampong,"Support Worker",Livability,"York House",09-09-2022,"12-09-2022 09:46","Friday Day",---,08:00,20:00,12.00,12.00,144.00,12.00,18.69,224.28,invoiced
+shift,HF1CA433,"John Kofi",Acheampong,"Support Worker",Livability,"York House",09-09-2022,"12-09-2022 09:46","Friday Day",---,20:00,22:00,2.00,12.50,25.00,2.00,19.51,39.02,invoiced
+shift,HF1CA433,"John Kofi",Acheampong,"Support Worker",Livability,"York House",10-09-2022,"12-09-2022 09:46","Saturday Day",---,15:00,20:00,5.00,13.00,65.00,5.00,20.33,101.65,invoiced
+shift,HF1CA433,"John Kofi",Acheampong,"Support Worker",Livability,"York House",10-09-2022,"12-09-2022 09:46","Saturday Day",---,20:00,22:00,2.00,13.50,27.00,2.00,21.13,42.26,invoiced
+shift,HF1CA433,"John Kofi",Acheampong,"Support Worker","Swanton Care","The Crown Apartment",11-09-2022,"12-09-2022 09:46","Sunday Day",---,09:00,19:00,10.00,14.00,140.00,10.00,21.94,219.40,invoiced
+"2 shifts",HF1CA438,Rejoice,Uche,"Support Worker","Accomplish Group","Malvern View","05-09-2022 to 11-09-2022",,,---,,,6.50,multiple,78.50,6.50,multiple,122.31,
+shift,HF1CA438,Rejoice,Uche,"Support Worker","Accomplish Group","Malvern View",05-09-2022,"14-09-2022 08:30","Monday Day",---,14:30,20:00,5.50,12.00,66.00,5.50,18.69,102.80,invoiced
+shift,HF1CA438,Rejoice,Uche,"Support Worker","Accomplish Group","Malvern View",05-09-2022,"14-09-2022 08:30","Monday Day",---,20:00,21:00,1.00,12.50,12.50,1.00,19.51,19.51,invoiced
+"2 shifts",HF1CA446,Elizabeth,McPhail,HCA,"Minster Care Group","Ideal Home","05-09-2022 to 11-09-2022",,,---,,,14.00,11.50,161.00,14.00,17.86,250.04,
+shift,HF1CA446,Elizabeth,McPhail,HCA,"Minster Care Group","Ideal Home",07-09-2022,"12-09-2022 09:46","Wednesday Day",---,08:00,16:00,7.00,11.50,80.50,7.00,17.86,125.02,invoiced
+shift,HF1CA446,Elizabeth,McPhail,HCA,"Minster Care Group","Ideal Home",08-09-2022,"12-09-2022 09:46","Thursday Day",---,08:00,16:00,7.00,11.50,80.50,7.00,17.86,125.02,invoiced
+,,,,,,,,,,,,,"1,060.58",,"13,386.08","1,131.78",,"20,886.75",
