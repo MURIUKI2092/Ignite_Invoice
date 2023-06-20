@@ -128,7 +128,7 @@ const Invoices = () => {
                           
 
                           </div>
-            <div className="clients-table" style={{maxHeight:"60vh",overflowY:"auto"}}>
+            <div className="clients-table" style={{maxHeight:"65vh",overflowY:"auto"}}>
               <table>
                 <thead>
                   <tr>
@@ -145,8 +145,8 @@ const Invoices = () => {
                 <tbody>
                   {data.map((client, index) => (
                     <tr key={index}>
-                      <td>{client._id}</td>
-                      <td><td><td>{`${client["Employee First Name"]} ${client["Employee Last Name"]}`}</td>
+                      <td>INV-{client[""]}</td>
+                      <td><td><td></td>
 </td>
 </td>
                       <td>{client.Invoice_date}</td>

@@ -93,6 +93,7 @@ const Uploads = () => {
                             <div className="left">
                                 <h4>Invoice</h4>
                                 <hr />
+                                 {successMessage && <p style={{ color: '#0C7BE2', fontSize: '12px' }}>{successMessage}</p>}
                                 {invoiceMessage && <p style={{ color: 'green', fontSize: '12px' }}>{ invoiceMessage }</p>}
                                 
                                 <p>Please select a file and click the "Upload" button to continue</p>
@@ -116,9 +117,9 @@ const Uploads = () => {
 
                                
                             </div>
-                            <div className="right">
+                            {/* <div className="right">
                                 {successMessage && <p>{successMessage}</p>}
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div>

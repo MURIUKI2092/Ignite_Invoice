@@ -156,6 +156,7 @@ router.post("/uploads", upload.array("files"), function (req, res, next) {
             });
         }
       })
+    
       .catch((error) => {
         console.error(error);
         throw new Error(

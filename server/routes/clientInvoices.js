@@ -59,7 +59,7 @@ router.post("/generate/invoices", (req, res) => {
     (error, stdout, stderr) => {
       if (error) {
         console.error(`Error executing Python script: ${error}`);
-        res.status(500).send("An error occurred while generating invoice.");
+        res.status(500).json("An error occurred while generating invoice.");
         return;
       }
 
@@ -101,6 +101,15 @@ router.get("/clients", async (req, res) => {
   }
 });
 
-//for deleting all data in the database
+//for getting single invoice
+router.get("/:_id", async(req, res) => {
+    try{
+        const invoice = await Invoices.find({ _id: req.params._id })
+        console.log(">>>>>>>++++");
+    res.status(200).json(invoice)
+  }catch(err){
+    res.status(500).json(err);
+  }
+})
 
 module.exports = router;
