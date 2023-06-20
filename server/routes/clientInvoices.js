@@ -6,12 +6,41 @@ const csv = require("csv-parser");
 const fs = require("fs");
 const { MongoClient } = require("mongodb");
 const { URL } = require("url");
+const path = require("path");
+
+const currentDirectory = __dirname;
+const targetDirectory = "uploads";
+
+const newPath = path.join(path.dirname(currentDirectory), targetDirectory);
 
 const uri =
   "mongodb+srv://bitcodeserver:hJ5ddwjCvHkxWI0Y@cluster0.wbmex5r.mongodb.net/invoice?retryWrites=true&w=majority"; // Replace with your MongoDB connection URL
 const client = new MongoClient(uri);
 // Extract the database name from the connection URL
 const dbName = new URL(uri).pathname.substr(1);
+
+// a function to delete files after invoices have been generated as they are already stored in the db
+
+const deleteFilesInAFolder = (folderPath) => {
+  fs.readdir(folderPath, (err, files) => {
+    if (err) {
+      console.error("Error reading folder:", err);
+      return;
+    }
+
+    files.forEach((file) => {
+      const filePath = path.join(folderPath, file);
+
+      fs.unlink(filePath, (error) => {
+        if (error) {
+          console.error("Error deleting file:", filePath, error);
+        } else {
+          console.log("Deleted file:", filePath);
+        }
+      });
+    });
+  });
+};
 //get all invoices for the clients
 router.get("/client/invoices", async (req, res) => {
   try {
@@ -21,7 +50,6 @@ router.get("/client/invoices", async (req, res) => {
     res.status(500).json(err);
   }
 });
-
 
 //generate invoices using the python script
 router.post("/generate/invoices", (req, res) => {
@@ -53,6 +81,9 @@ router.post("/generate/invoices", (req, res) => {
             });
         })
         .on("end", () => {
+          console.log("Updated path:", newPath);
+          //delete the files after the invoices have been generated
+          deleteFilesInAFolder(newPath);
           // Send a success response after completing the upload
           res.status(200).json("Invoices generated and uploaded successfully.");
         });
@@ -61,8 +92,8 @@ router.post("/generate/invoices", (req, res) => {
 });
 
 //for getting all clients
-router.get('/clients',async (req, res) => {
-    try {
+router.get("/clients", async (req, res) => {
+  try {
     const allClients = await ClientInvoice.find();
     res.status(200).json(allClients);
   } catch (err) {

@@ -30,7 +30,7 @@ router.post("/uploads", upload.array("files"), function (req, res, next) {
     return csvtojson()
       .fromFile(filePath)
       .then((jsonArray) => {
-        if (file.originalname === "candidate.csv") {
+        if (file.originalname === "candidates.csv") {
           // Map CSV data to Candidate model fields
           const candidates = jsonArray.map((data) => ({
             firstName: data["First Name"],

@@ -25,7 +25,7 @@ const Invoices = () => {
     <section className="clients-data">
       <div className="container">
         <div className="row">
-          <div className="col-xl-12 clients" style ={{zIndex:1000}}>
+          <div className="col-xl-12 clients" style ={{zIndex:100}}>
                       <div className="header" style={{ display: 'flex', justifyContent: 'space-between' }}>
                           <div>
                               <h1 style={{ fontFamily: 'sans-serif' }}>Invoices</h1>

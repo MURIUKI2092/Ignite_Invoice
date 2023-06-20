@@ -20,11 +20,11 @@ const Clients = () => {
     <section className="clients-data">
       <div className="container">
         <div className="row">
-          <div className="col-xl-12 clients">
-            <div className="header">
-              <h1>Clients</h1>
+          <div className="col-xl-12 clients" style={{zIndex:100}}>
+            <div className="header" >
+              <h1 style={{ fontFamily: 'sans-serif' }}>Clients </h1>
             </div>
-            <div className="clients-table">
+            <div className="clients-table" style={{maxHeight:"82vh",overflowY:"auto"}}>
               <table>
                 <thead>
                   <tr>

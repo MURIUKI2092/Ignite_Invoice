@@ -2,8 +2,8 @@ import pandas as pd
 import numpy as np
 import requests,json,re,csv
 from datetime import datetime
-payroll=pd.read_csv('uploads/payrollreportexpanded.csv')
-h_f_care = pd.read_csv('uploads/h_f_care_candidates.csv')
+payroll=pd.read_csv('uploads/payroll.csv')
+h_f_care = pd.read_csv('uploads/candidates.csv')
 bussiness_unit = pd.read_csv('uploads/businessunits.csv')
 
 for i in range(len(payroll)):
