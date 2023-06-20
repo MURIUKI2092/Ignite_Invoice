@@ -29,17 +29,27 @@ const Uploads = () => {
                 }
                 if (uploadedFiles.length > 0) {
                     setSuccessMessage(`Invoices ${uploadedFiles.join(', ')} were uploaded successfully on ${currentDate}`);
+                    setTimeout(() => {
+          setSuccessMessage(null);
+        }, 4000);
                 } else {
                     setSuccessMessage('');
-                    alert('No valid files found for upload.');
+                    setTimeout(() => {
+                        alert('No valid files found for upload.');
+                    }, 4000);
+                    
                 }
             } catch (error) {
                 setSuccessMessage('');
+                
                 console.log(error);
             }
         } else {
             setSuccessMessage('');
-            alert('Please select at least one file to upload.');
+             setTimeout(() => {
+                        alert('Please select at least one file to upload.');
+                    }, 4000);
+            
         }
     };
 
@@ -84,6 +94,7 @@ const Uploads = () => {
                                 <h4>Invoice</h4>
                                 <hr />
                                 {invoiceMessage && <p style={{ color: 'green', fontSize: '12px' }}>{ invoiceMessage }</p>}
+                                
                                 <p>Please select a file and click the "Upload" button to continue</p>
                                 <label htmlFor="fileUpload">CSV Files:</label>
                                 <input
