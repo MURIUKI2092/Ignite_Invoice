@@ -44,7 +44,7 @@ const deleteFilesInAFolder = (folderPath) => {
 //get all invoices for the clients
 router.get("/client/invoices", async (req, res) => {
   try {
-    const allInvoices = await Invoices.find();
+    const allInvoices = await Invoices.find().sort({ _id: -1 });
     res.status(200).json(allInvoices);
   } catch (err) {
     res.status(500).json(err);
@@ -94,10 +94,13 @@ router.post("/generate/invoices", (req, res) => {
 //for getting all clients
 router.get("/clients", async (req, res) => {
   try {
-    const allClients = await ClientInvoice.find();
+    const allClients = await ClientInvoice.find().sort({ _id: -1 });
     res.status(200).json(allClients);
   } catch (err) {
     res.status(500).json(err);
   }
 });
+
+//for deleting all data in the database
+
 module.exports = router;
