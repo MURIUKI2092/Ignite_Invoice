@@ -2,14 +2,16 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { FaEye } from 'react-icons/fa';
 import { MdDescription } from 'react-icons/md';
+import { useParams } from 'react-router-dom';
 
-
-import './invoice.css';
+import './single_invoice.css';
 
 const SingleInvoice = () => {
-  const [data, setData] = useState([]);
+    const [data, setData] = useState([]);
+    const { _id } = useParams();
+    
   useEffect(() => {
-    axios.get('http://127.0.0.1:5000/api/all/clients')
+    axios.get(`http://127.0.0.1:5000/api/all/${_id}`)
       .then(response => {
         // Handle the response data
           console.log(response.data,">>>>>>>>>>this is the response");
@@ -20,6 +22,11 @@ const SingleInvoice = () => {
         console.error(error);
       });
   }, []);
+    const required_data = data[0] ?? {};
+
+  console.log("This is the invoice id:", _id);
+  console.log("Data:", data);
+  console.log("Required Data:", required_data);
   return (
     <section className="clients-data">
       <div className="container">
@@ -49,19 +56,20 @@ const SingleInvoice = () => {
                                 <div style={{marginBottom: "10px",marginRight:"150px" }}><p style={{ fontFamily: "sans-serif", fontWeight: "bold", fontSize: "14px" }}>
                                       Due
                                   </p></div>
-                            </div>
+                              </div>
+                              {data.map((client, index) => (
                             <div style={{ display: "flex", flexDirection: "column",flex:"2" }}>
                                 <div style={{  marginBottom: "10px" }}><p style={{ fontFamily: "sans-serif", fontWeight: "bold", fontSize: "14px",color:"gray" }}>
-                                      Due
+                                     INV-{client[""]}
                                   </p></div>
                                 <div style={{  marginBottom: "10px" }}><p style={{ fontFamily: "sans-serif", fontWeight: "bold", fontSize: "14px",color:"gray" }}>
-                                      Due
+                                    {client.Invoice_date}
                                   </p></div>
                                 <div style={{ marginBottom: "10px" }}><p style={{ fontFamily: "sans-serif", fontWeight: "bold", fontSize: "14px",color:"gray" }}>
-                                      Due,
+                                      {client.due_date},
                                   </p></div>
                             </div>
-                            
+                            ))}
                             </div>
 
                           
@@ -95,14 +103,29 @@ const SingleInvoice = () => {
                   </tr>
                 </thead>
                 <tbody>
-                  {data.map((client, index) => (
-                    <tr key={index}>
-                      <td>{client._id}</td>
-                      <td>{client.client}</td>
-                      <td>{client.grandTotal}</td>
-                      <td>{client.balanceAmount}</td>
-                    </tr>
-                  ))}
+                                  {data.map((client, index) => (
+                      <React.Fragment key={index}>
+      <tr>
+        <td>1</td>
+        <td>{client.Invoice_date}</td>
+        <td></td>
+                                              <td>{client["Distance Traveled (Miles)"]}</td>
+        <td>{client["Charge Rate"]}</td>
+        <td>{client["Total Cost"]}</td>
+      </tr>
+      <tr>
+        <td colSpan="6">
+          <div style={{ display: 'flex', justifyContent: 'space-between' }}>
+            <p style ={{marginLeft:"120px"}}>
+              Travel Expenses: Claimed miles by staff {client["Distance Traveled (Miles)"]} Rate per mile {client["Charge Rate"]} Total Charges {client["Total Charge"]}
+            </p>
+            <p style={{ textAlign: 'right',marginRight:"196px",fontFamily:'sans-serif',fontWeight:'bold' }}>{client["Total Charge"]}</p>
+          </div>
+        </td>
+      </tr>
+    </React.Fragment>
+                                       ))}
+                                  
                 </tbody>
               </table>
                       </div>
@@ -110,15 +133,15 @@ const SingleInvoice = () => {
                         <div className="row">
                             <div className="pair">
                             <div className="item"><p style={{ fontFamily: "sans-serif", fontWeight: "bold", fontSize: "16px" }}>Shift</p></div>
-                            <div className="myitem"><p style={{ fontFamily: "sans-serif", fontWeight: "bold", fontSize: "16px" }}>Item 2</p></div>
+                                  <div className="myitem"><p style={{ fontFamily: "sans-serif", fontWeight: "bold", fontSize: "16px" }}>{required_data["Total Charge"]}</p></div>
                             </div>
                             <div className="pair">
                             <div className="item"><p style={{ fontFamily: "sans-serif", fontWeight: "bold", fontSize: "16px" }}>Mileage</p></div>
-                            <div className="myitem"><p style={{ fontFamily: "sans-serif", fontWeight: "bold", fontSize: "16px" }}>Item 4</p></div>
+                            <div className="myitem"><p style={{ fontFamily: "sans-serif", fontWeight: "bold", fontSize: "16px" }}>{required_data["Total Charge"]}</p></div>
                             </div>
                             <div className="mypair">
                             <div className="item"><p style={{ fontFamily: "sans-serif", fontWeight: "bold", fontSize: "16px" }}>Grand Total</p></div>
-                            <div className="myitem"><p style={{ fontFamily: "sans-serif", fontWeight: "bold", fontSize: "20px" }}>Item 6</p></div>
+                            <div className="myitem"><p style={{ fontFamily: "sans-serif", fontWeight: "bold", fontSize: "20px" }}>{required_data["Total Charge"]}</p></div>
                             </div>
                         </div>
                         </div>

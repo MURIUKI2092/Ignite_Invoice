@@ -17,7 +17,7 @@ function App() {
         <Route path="/reports" element={<Reports />} />
         <Route path="/clients" element={<Clients />} />
         <Route path="/invoices" element={<Invoices />} />
-        <Route path="/invoice" element={<SingleInvoices />} />
+        <Route path="/invoices/:_id" element={<SingleInvoices />} />
       </Routes>
     </Router>
   );

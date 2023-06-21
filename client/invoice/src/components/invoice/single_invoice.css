@@ -15,6 +15,7 @@
 
 .clients-table {
     width: 100%;
+    margin-right: 0%;
 }
 
 .clients-table table {
@@ -40,6 +41,7 @@
 .clients-table tbody tr:nth-child(odd) {
     background-color: #ffffff;
 }
+
 .tab-container {
     border: 1px solid #ccc;
     padding: 10px;
@@ -68,4 +70,43 @@
 
 .tab-content.active {
     display: block;
+}
+
+.mycontainer {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+
+.row {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 10px;
+}
+
+.pair {
+    display: flex;
+    margin-right: 10px;
+}
+
+.pair {
+    display: flex;
+    justify-content: space-between;
+}
+
+.mypair {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+    background-color: #B3B6B6;
+    border-radius: 5px;
+}
+
+.item {
+    margin-right: 20px;
+}
+
+.item:last-child {
+    margin-right: 0px;
 }

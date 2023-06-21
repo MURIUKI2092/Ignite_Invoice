@@ -1,4 +1,6 @@
-import React,{useState,useEffect} from 'react';
+import React, { useState, useEffect } from 'react';
+import { Link, useNavigate } from 'react-router-dom';
+
 import './invoice.css';
 import { FaCog } from 'react-icons/fa';
 import axios from 'axios';
@@ -7,6 +9,12 @@ const Invoices = () => {
     const [data, setData] = useState([]);
     const handleTabClick = (tabName) => {
     setActiveTab(tabName);
+    };
+    const navigate = useNavigate();
+    const handleRowClick = (invoiceId) => {
+    // Navigate to the single invoice page
+        console.log(invoiceId,">>>>>>>>>>>>>invoice id");
+    navigate(`/invoices/${invoiceId}`);
   };
 
     useEffect(() => {
@@ -143,10 +151,10 @@ const Invoices = () => {
                   </tr>
                 </thead>
                 <tbody>
-                  {data.map((client, index) => (
-                    <tr key={index}>
-                      <td>INV-{client[""]}</td>
-                      <td><td><td></td>
+                                  {data.map((client, index) => (
+                     <tr key={client._id} style={{ cursor: 'pointer', backgroundColor: '#f5f5f5', borderBottom: '1px solid #ccc' }} onClick={() => handleRowClick(client._id)}>
+                    <td>INV-{client[""]}</td>
+                    <td><td><td></td>
 </td>
 </td>
                       <td>{client.Invoice_date}</td>
@@ -156,6 +164,13 @@ const Invoices = () => {
                       <td>{client.status}</td>
                       <td>{client.Invoice_date}</td>
                     </tr>
+
+
+
+
+
+
+
                   ))}
                 </tbody>
               </table>
